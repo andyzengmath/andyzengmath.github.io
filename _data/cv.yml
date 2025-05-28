@@ -18,7 +18,7 @@
       year: 2021
       description:
         - Benjamin Franklin Fellowship.
-        - Derived Lie $\infty$-groupoids and algebroids in Higher Differential Geometry.
+        - Derived Lie infinity-groupoids and algebroids in Higher Differential Geometry.
         - title: Description 3.
           contents:
             - Sub-description 1.
@@ -121,8 +121,8 @@ sity
       items:
         - Higher geometry in singular foliations
         - Index theory of foliations
-        - Homotopy theory of Lie $\infty$-groupoids and algebroids
-        - Deformation theory by $L_{\infty}$-algebroids
+        - Homotopy theory of Lie infinity-groupoids and algebroids
+        - Deformation theory by L_infinity-algebroids
         
     - title: AI and Machine Learning
       items:
