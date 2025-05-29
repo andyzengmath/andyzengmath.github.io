@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Teaching materials and course notes from my experience as an instructor and teaching assistant at the University of Pennsylvania, covering topics in topology, algebra, and partial differential equations.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
