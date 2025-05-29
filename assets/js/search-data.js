@@ -72,6 +72,13 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
+            },{id: "dropdown-repositories",
+              title: "repositories",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/repositories/";
+              },
             },{id: "post-hodge-filtration-on-singular-foliations",
         
           title: "Hodge filtration on singular foliations",
