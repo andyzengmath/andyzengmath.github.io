@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-a-post-with-plotly-js",
+            },{id: "post-hodge-filtration-on-singular-foliations",
+        
+          title: "Hodge filtration on singular foliations",
+        
+        description: "We consider the Hodge filtration on the $L_{\infty}$-algebroid associated to a singular foliation",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/hodge/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -80,7 +91,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/plotly/";
+            window.location.href = "/blog/2025/plotly-copy/";
           
         },
       },{id: "post-a-post-with-image-galleries",
