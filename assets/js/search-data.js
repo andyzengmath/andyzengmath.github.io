@@ -459,8 +459,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-transcend-ai-in-penn-i-corp-sparkles-smile-our-project-aims-to-create-an-ai-driven-platform-designed-to-enhance-the-efficiency-and-precision-of-decision-making-for-primary-care-pediatricians-with-a-focus-on-identifying-potential-rare-genetic-disease-cases-see-more-details-at-transcend-ai-page-from-penn-center-for-innovation",
+          title: 'Transcend AI in Penn I-CORP! :sparkles: :smile: Our project aims to create an...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
