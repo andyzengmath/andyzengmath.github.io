@@ -17,9 +17,10 @@
       institution: University of Pennsylvania, Philadelphia, Pennsylvania, US
       year: 2021
       description:
+        - Specialized in differential geometry and topology, with a focus on higher structures in singular foliations.
         - Benjamin Franklin Fellowship.
         - title: Thesis
-          description: Derived Lie infinity-groupoids and algebroids in Higher Differential Geometry.
+          contents: Derived Lie infinity-groupoids and algebroids in Higher Differential Geometry.
         - title: Description 3.
           contents:
             - Sub-description 1.
