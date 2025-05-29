@@ -451,16 +451,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-transcend-ai-in-penn-i-corp-sparkles-smile-our-project-aims-to-create-an-ai-driven-platform-designed-to-enhance-the-efficiency-and-precision-of-decision-making-for-primary-care-pediatricians-with-a-focus-on-identifying-potential-rare-genetic-disease-cases-see-more-details-at-transcend-ai-page-from-penn-center-for-innovation",
           title: 'Transcend AI in Penn I-CORP! :sparkles: :smile: Our project aims to create an...',
+          description: "",
+          section: "News",},{id: "news-preprint-higher-riemann-hilbert-correspondence-for-foliations-is-on-arxiv-now-this-is-still-the-old-version-from-2021-and-will-be-significantly-updated-soon",
+          title: 'Preprint Higher Riemann-Hilbert correspondence for foliations is on Arxiv now! This is still...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
