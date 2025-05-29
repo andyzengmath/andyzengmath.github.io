@@ -155,7 +155,7 @@ I have **resigned** from the teaching assistantship of MATH314/514 yesterday due
 ###### Week 1
 - [Lec 1 (May 22)](https://www2.math.upenn.edu/~qze/math241s17/LEC01.pdf). We covered roughly Sec. 1.1-1.3 in [Haberman]( https://juarezrd.files.wordpress.com/2014/05/richard_haberman_applied_partial_differential_eqbookfi-org.pdf ). Here is a supplementary notes on [ODEs](https://www2.math.upenn.edu/~qze/math241s17/ODE notes.pdf).
 - [Lec 2 (May 23)](https://www2.math.upenn.edu/~qze/math241s17/LEC02.pdf). We covered Sec. 1.4-1.5 and Sec. 2.1-2.2. Here is an animation of 2D heat equation of Dirichelet boundary conditions (Prescribed temperature).
-  `<iframe width="560" height="315" src="https://www.youtube.com/embed/QBjniA5XfKA" frameborder="0" allowfullscreen></iframe>`
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/QBjniA5XfKA" frameborder="0" allowfullscreen></iframe>
 - [Lec 3 (May 24)](https://www2.math.upenn.edu/~qze/math241s17/LEC03.pdf). We covered Sec. 2.3 and most of 2.4.
 - [Lec 4 (May 25)](https://www2.math.upenn.edu/~qze/math241s17/LEC04.pdf). We covered Sec 2.5, 3.1, and most of the 3.2.
 ###### Week 2
@@ -168,10 +168,10 @@ I have **resigned** from the teaching assistantship of MATH314/514 yesterday due
 - [Lec 9 (June 6)](https://www2.math.upenn.edu/~qze/math241s17/LEC09.pdf). We covered Sec. 7.1-7.3 of Higher dumensional PDEs
 - [Lec 10 (June 7)](https://www2.math.upenn.edu/~qze/math241s17/LEC10.pdf). We covered Sec. 7.4-7.6: Mutidimensional eigenvalue problems
 - [Lec 11 (June 8)](https://www2.math.upenn.edu/~qze/math241s17/LEC 11.pdf). We covered Sec. 7.7: Vibrating Circular Membrane and Bessel functions. Here's an additional [notes on Bessel functions](https://www2.math.upenn.edu/~qze/math241s17/Bessel_functions.pdf). Below is an demostration of vibrating circular membrane. Here's a real [membrane](https://www.youtube.com/watch?v=QksHbCwYngw) video.
-  `<iframe width="560" height="315" src="https://www.youtube.com/embed/asr7QfLksGo" frameborder="0" allowfullscreen></iframe>`
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/asr7QfLksGo" frameborder="0" allowfullscreen></iframe>
 ###### Week 4
-- [Lec 12 (June 12)](https://www2.math.upenn.edu/~qze/math241s17/LEC 12.pdf). We covered Sec.7.9-7.10: Laplace equations in circlular cylinder, modified Bessel functions, Spherical problems and Legendre polynomials. Here's an additional [notes on Laplace equation on a solid cylinder](https://www2.math.upenn.edu/~qze/math241s17/laplacecylinder-3.pdf). Below is a video on spherical harmonics
-  `<iframe width="560" height="315" src="https://www.youtube.com/embed/EcKgJhFdtEY" frameborder="0" allowfullscreen></iframe>`
+- [Lec 12 (June 12)](https://www2.math.upenn.edu/~qze/math241s17/LEC12.pdf). We covered Sec.7.9-7.10: Laplace equations in circlular cylinder, modified Bessel functions, Spherical problems and Legendre polynomials. Here's an additional [notes on Laplace equation on a solid cylinder](https://www2.math.upenn.edu/~qze/math241s17/laplacecylinder-3.pdf). Below is a video on spherical harmonics
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EcKgJhFdtEY" frameborder="0" allowfullscreen></iframe>
 - [Lec 13 (June 13)](https://www2.math.upenn.edu/~qze/math241s17/LEC13.pdf). We covered Sec. 8.1-8.3, the begining of nonhomogeneous problems
 - [Lec 14 (June 14)](https://www2.math.upenn.edu/~qze/math241s17/LEC14.pdf). We covered Sec 8.3 eigenfunction expansions
 - [Lec 15 (June 15)](https://www2.math.upenn.edu/~qze/math241s17/LEC15.pdf). We covered Sec 8.6 Poisson equations and Sec 10.1-10.3 of *Fourier transforms*
