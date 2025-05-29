@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "post-hodge-filtration-on-singular-foliations",
+            },{id: "post-deepseek-r1-0528-upgraded-open-source-ai-model-raises-the-bar-in-reasoning-and-code-generation",
+        
+          title: 'DeepSeek R1-0528 Upgraded Open-Source AI Model Raises the Bar in Reasoning and Code... <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "you can also redirect to assets like pdf",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://huggingface.co/deepseek-ai/DeepSeek-R1-0528", "_blank");
+          
+        },
+      },{id: "post-hodge-filtration-on-singular-foliations",
         
           title: "Hodge filtration on singular foliations",
         
@@ -165,17 +176,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
-      },{id: "post-a-post-with-redirect",
-        
-          title: "a post with redirect",
-        
-        description: "you can also redirect to assets like pdf",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/assets/pdf/example_pdf.pdf";
           
         },
       },{id: "post-talk-at-penn-deformation-theory-seminar",
