@@ -73,22 +73,22 @@ nav_order: 6
     <tbody>
       <tr>
         <td>1</td>
-        <td>[HW 1A](https://www2.math.upenn.edu/~qze/math241s17/quiz0/hw1a.pdf), [HW 1B](https://www2.math.upenn.edu/~qze/math241s17/HW1b/hw1b.pdf)</td>
+        <td><a href="https://www2.math.upenn.edu/~qze/math241s17/quiz0/hw1a.pdf">HW 1A</a>, <a href="https://www2.math.upenn.edu/~qze/math241s17/HW1b/hw1b.pdf">HW 1B</a></td>
         <td>May 25</td>
       </tr>
       <tr>
         <td>1-2</td>
-        <td>[HW 2A](https://www2.math.upenn.edu/~qze/math241s17/HW2A/hw2A.pdf), [HW 2B](https://www2.math.upenn.edu/~qze/math241s17/HW2B/hw2B.pdf)</td>
+        <td><a href="https://www2.math.upenn.edu/~qze/math241s17/HW2A/hw2A.pdf">HW 2A</a>, <a href="https://www2.math.upenn.edu/~qze/math241s17/HW2B/hw2B.pdf">HW 2B</a></td>
         <td>May 30</td>
       </tr>
       <tr>
         <td>2</td>
-        <td>[HW 3A](https://www2.math.upenn.edu/~qze/math241s17/HW3A/hw3a.pdf)</td>
+        <td><a href="https://www2.math.upenn.edu/~qze/math241s17/HW3A/hw3a.pdf">HW 3A</a></td>
         <td>June 1</td>
       </tr>
       <tr>
         <td>2-3</td>
-        <td>[HW 4A](https://www2.math.upenn.edu/~qze/math241s17/HW3B/hw4a.pdf), [HW 4B](https://www2.math.upenn.edu/~qze/math241s17/HW4B/hw4b.pdf)</td>
+        <td><a href="https://www2.math.upenn.edu/~qze/math241s17/HW3B/hw4a.pdf">HW 4A</a>, <a href="https://www2.math.upenn.edu/~qze/math241s17/HW4B/hw4b.pdf">HW 4B</a></td>
         <td>June 5</td>
       </tr>
     </tbody>
