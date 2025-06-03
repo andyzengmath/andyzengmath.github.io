@@ -46,7 +46,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Teaching materials and course notes from my experience as an instructor and teaching assistant at the University of Pennsylvania, covering topics in topology, algebra, and partial differential equations.",
+          description: "Teaching materials and course notes from my experience as an instructor and teaching assistant at the University of Pennsylvania.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
