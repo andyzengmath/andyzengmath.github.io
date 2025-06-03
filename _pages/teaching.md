@@ -30,6 +30,8 @@ nav_order: 6
   <details>
     <summary><strong>📚 Course Materials</strong></summary>
     
+  <div class="course-content">
+
   #### Lecture Notes
   
   **Week 1: Introduction to PDEs**
@@ -60,6 +62,10 @@ nav_order: 6
   - [Lecture 16: Fourier Transform Applications](https://www2.math.upenn.edu/~qze/math241s17/LEC16.pdf) (Section 10.3)
   - [Lecture 17: Fourier Transform & PDEs](https://www2.math.upenn.edu/~qze/math241s17/LEC%2017.pdf) (Sections 10.4, 10.6)
   - [Supplementary: Laplace Equation on Cylinder](https://www2.math.upenn.edu/~qze/math241s17/laplacecylinder-3.pdf)
+
+  #### Homework Assignments
+  
+  </div>
 
   #### Homework Assignments
   <table class="table table-sm">
@@ -215,108 +221,4 @@ nav_order: 6
       <tr>
         <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework%20Set%201%20(due%20Sep%2014).pdf">HW1</a></td>
         <td>By Brandon Lin</td>
-        <td><a href="https://www.math.upenn.edu/~kazdan/425S11/deturck/425S08/notes01.pdf">1st Order ODEs</a></td>
-      </tr>
-      <tr>
-        <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework%20Set%202%20(due%20Sep%2023).pdf">HW2</a></td>
-        <td>By Brandon Lin</td>
-        <td><a href="https://www.math.upenn.edu/~kazdan/241S15/Notes/heat-eq.pdf">Heat Equation Derivation</a></td>
-      </tr>
-      <tr>
-        <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework%20Set%203%20(due%20Oct%203).pdf">HW3</a></td>
-        <td>By Brandon Lin</td>
-        <td><a href="https://www.math.upenn.edu/~kazdan/312S13/Notes/fourier/Fourier_series_example.html">Fourier Series Examples</a></td>
-      </tr>
-      <tr>
-        <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework%20Set%204%20(due%20Oct%2014).pdf">HW4</a></td>
-        <td>By Brandon Lin</td>
-        <td><a href="https://www2.math.upenn.edu/~qze/math241s17/note4.4.3.pdf">Non-homogeneous Wave Eq.</a></td>
-      </tr>
-      <tr>
-        <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework%20Set%205%20(due%20Oct%2021).pdf">HW5</a></td>
-        <td>-</td>
-        <td><a href="https://www2.math.upenn.edu/~qze/math241s17/Sturm_Liouville.pdf">Sturm-Liouville</a> | <a href="https://www2.math.upenn.edu/~qze/math241s17/Bessel_functions.pdf">Bessel Functions</a></td>
-      </tr>
-      <tr>
-        <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework%20Set%206%20(due%20Oct%2028).pdf">HW6</a></td>
-        <td>-</td>
-        <td>-</td>
-      </tr>
-    </tbody>
-  </table>
-  </details>
-</div>
-
----
-
-<style>
-.teaching-nav {
-  text-align: center;
-  margin: 2rem 0;
-}
-
-.course-card {
-  background: #f8f9fa;
-  border-left: 4px solid #007bff;
-  padding: 1.5rem;
-  margin-bottom: 2rem;
-  border-radius: 0 8px 8px 0;
-}
-
-.course-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 1rem;
-  flex-wrap: wrap;
-}
-
-.course-term {
-  font-weight: bold;
-  color: #007bff;
-}
-
-.course-instructor {
-  font-style: italic;
-  color: #6c757d;
-}
-
-.course-role {
-  background: #28a745;
-  color: white;
-  padding: 0.25rem 0.75rem;
-  border-radius: 4px;
-  font-size: 0.875rem;
-}
-
-.video-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-  gap: 1rem;
-  margin-top: 1rem;
-}
-
-details {
-  margin-top: 1rem;
-}
-
-details summary {
-  cursor: pointer;
-  padding: 0.5rem;
-  background: #e9ecef;
-  border-radius: 4px;
-  margin-bottom: 0.5rem;
-}
-
-details[open] summary {
-  background: #dee2e6;
-}
-
-.badge-warning {
-  background: #ffc107;
-  color: #212529;
-  padding: 0.25rem 0.5rem;
-  border-radius: 4px;
-  font-size: 0.75rem;
-}
-</style>
+        <td><a href="https://www.math.upenn.edu/~kazdan/425S11/det
