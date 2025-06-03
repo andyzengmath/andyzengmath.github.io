@@ -30,8 +30,6 @@ nav_order: 6
   <details>
     <summary><strong>📚 Course Materials</strong></summary>
     
-  <div class="course-content">
-
   #### Lecture Notes
   
   **Week 1: Introduction to PDEs**
@@ -39,7 +37,7 @@ nav_order: 6
   - [Lecture 2: Boundary Conditions](https://www2.math.upenn.edu/~qze/math241s17/LEC02.pdf) (Sections 1.4-1.5, 2.1-2.2)
   - [Lecture 3: Separation of Variables](https://www2.math.upenn.edu/~qze/math241s17/LEC03.pdf) (Section 2.3-2.4)
   - [Lecture 4: Eigenvalue Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC04.pdf) (Sections 2.5, 3.1-3.2)
-  - [Supplementary: ODE Review](https://www2.math.upenn.edu/~qze/math241s17/ODE%20notes.pdf)
+  - [Supplementary: ODE Review](https://www2.math.upenn.edu/~qze/math241s17/ODE notes.pdf)
 
   **Week 2: Fourier Series**
   - [Lecture 5: Fourier Series Introduction](https://www2.math.upenn.edu/~qze/math241s17/LEC05.pdf) (Section 3.3.1)
@@ -50,7 +48,7 @@ nav_order: 6
   - [Lecture 8: Sturm-Liouville Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC08.pdf) (Sections 5.1-5.4)
   - [Lecture 9: Higher Dimensional PDEs](https://www2.math.upenn.edu/~qze/math241s17/LEC09.pdf) (Sections 7.1-7.3)
   - [Lecture 10: Multidimensional Eigenvalue Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC10.pdf) (Sections 7.4-7.6)
-  - [Lecture 11: Bessel Functions](https://www2.math.upenn.edu/~qze/math241s17/LEC%2011.pdf) (Section 7.7)
+  - [Lecture 11: Bessel Functions](https://www2.math.upenn.edu/~qze/math241s17/LEC 11.pdf) (Section 7.7)
   - [Supplementary: Sturm-Liouville Theory](https://www2.math.upenn.edu/~qze/math241s17/Sturm_Liouville.pdf)
   - [Supplementary: Bessel Functions](https://www2.math.upenn.edu/~qze/math241s17/Bessel_functions.pdf)
 
@@ -60,12 +58,8 @@ nav_order: 6
   - [Lecture 14: Eigenfunction Expansions](https://www2.math.upenn.edu/~qze/math241s17/LEC14.pdf) (Section 8.3)
   - [Lecture 15: Introduction to Fourier Transforms](https://www2.math.upenn.edu/~qze/math241s17/LEC15.pdf) (Sections 8.6, 10.1-10.3)
   - [Lecture 16: Fourier Transform Applications](https://www2.math.upenn.edu/~qze/math241s17/LEC16.pdf) (Section 10.3)
-  - [Lecture 17: Fourier Transform & PDEs](https://www2.math.upenn.edu/~qze/math241s17/LEC%2017.pdf) (Sections 10.4, 10.6)
+  - [Lecture 17: Fourier Transform & PDEs](https://www2.math.upenn.edu/~qze/math241s17/LEC 17.pdf) (Sections 10.4, 10.6)
   - [Supplementary: Laplace Equation on Cylinder](https://www2.math.upenn.edu/~qze/math241s17/laplacecylinder-3.pdf)
-
-  #### Homework Assignments
-  
-  </div>
 
   #### Homework Assignments
   <table class="table table-sm">
@@ -79,22 +73,22 @@ nav_order: 6
     <tbody>
       <tr>
         <td>1</td>
-        <td><a href="https://www2.math.upenn.edu/~qze/math241s17/quiz0/hw1a.pdf">HW 1A</a>, <a href="https://www2.math.upenn.edu/~qze/math241s17/HW1b/hw1b.pdf">HW 1B</a></td>
+        <td>[HW 1A](https://www2.math.upenn.edu/~qze/math241s17/quiz0/hw1a.pdf), [HW 1B](https://www2.math.upenn.edu/~qze/math241s17/HW1b/hw1b.pdf)</td>
         <td>May 25</td>
       </tr>
       <tr>
         <td>1-2</td>
-        <td><a href="https://www2.math.upenn.edu/~qze/math241s17/HW2A/hw2A.pdf">HW 2A</a>, <a href="https://www2.math.upenn.edu/~qze/math241s17/HW2B/hw2B.pdf">HW 2B</a></td>
+        <td>[HW 2A](https://www2.math.upenn.edu/~qze/math241s17/HW2A/hw2A.pdf), [HW 2B](https://www2.math.upenn.edu/~qze/math241s17/HW2B/hw2B.pdf)</td>
         <td>May 30</td>
       </tr>
       <tr>
         <td>2</td>
-        <td><a href="https://www2.math.upenn.edu/~qze/math241s17/HW3A/hw3a.pdf">HW 3A</a></td>
+        <td>[HW 3A](https://www2.math.upenn.edu/~qze/math241s17/HW3A/hw3a.pdf)</td>
         <td>June 1</td>
       </tr>
       <tr>
         <td>2-3</td>
-        <td><a href="https://www2.math.upenn.edu/~qze/math241s17/HW3B/hw4a.pdf">HW 4A</a>, <a href="https://www2.math.upenn.edu/~qze/math241s17/HW4B/hw4b.pdf">HW 4B</a></td>
+        <td>[HW 4A](https://www2.math.upenn.edu/~qze/math241s17/HW3B/hw4a.pdf), [HW 4B](https://www2.math.upenn.edu/~qze/math241s17/HW4B/hw4b.pdf)</td>
         <td>June 5</td>
       </tr>
     </tbody>
@@ -219,6 +213,110 @@ nav_order: 6
     </thead>
     <tbody>
       <tr>
-        <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework%20Set%201%20(due%20Sep%2014).pdf">HW1</a></td>
+        <td>[HW1](https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 1 (due Sep 14).pdf)</td>
         <td>By Brandon Lin</td>
-        <td><a href="https://www.math.upenn.edu/~kazdan/425S11/det
+        <td>[1st Order ODEs](https://www.math.upenn.edu/~kazdan/425S11/deturck/425S08/notes01.pdf)</td>
+      </tr>
+      <tr>
+        <td>[HW2](https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 2 (due Sep 23).pdf)</td>
+        <td>By Brandon Lin</td>
+        <td>[Heat Equation Derivation](https://www.math.upenn.edu/~kazdan/241S15/Notes/heat-eq.pdf)</td>
+      </tr>
+      <tr>
+        <td>[HW3](https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 3 (due Oct 3).pdf)</td>
+        <td>By Brandon Lin</td>
+        <td>[Fourier Series Examples](https://www.math.upenn.edu/~kazdan/312S13/Notes/fourier/Fourier_series_example.html)</td>
+      </tr>
+      <tr>
+        <td>[HW4](https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 4 (due Oct 14).pdf)</td>
+        <td>By Brandon Lin</td>
+        <td>[Non-homogeneous Wave Eq.](https://www2.math.upenn.edu/~qze/math241s17/note4.4.3.pdf)</td>
+      </tr>
+      <tr>
+        <td>[HW5](https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 5 (due Oct 21).pdf)</td>
+        <td>-</td>
+        <td>[Sturm-Liouville](https://www2.math.upenn.edu/~qze/math241s17/Sturm_Liouville.pdf) | [Bessel Functions](https://www2.math.upenn.edu/~qze/math241s17/Bessel_functions.pdf)</td>
+      </tr>
+      <tr>
+        <td>[HW6](https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 6 (due Oct 28).pdf)</td>
+        <td>-</td>
+        <td>-</td>
+      </tr>
+    </tbody>
+  </table>
+  </details>
+</div>
+
+---
+
+<style>
+.teaching-nav {
+  text-align: center;
+  margin: 2rem 0;
+}
+
+.course-card {
+  background: #f8f9fa;
+  border-left: 4px solid #007bff;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+  border-radius: 0 8px 8px 0;
+}
+
+.course-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.course-term {
+  font-weight: bold;
+  color: #007bff;
+}
+
+.course-instructor {
+  font-style: italic;
+  color: #6c757d;
+}
+
+.course-role {
+  background: #28a745;
+  color: white;
+  padding: 0.25rem 0.75rem;
+  border-radius: 4px;
+  font-size: 0.875rem;
+}
+
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+details {
+  margin-top: 1rem;
+}
+
+details summary {
+  cursor: pointer;
+  padding: 0.5rem;
+  background: #e9ecef;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
+details[open] summary {
+  background: #dee2e6;
+}
+
+.badge-warning {
+  background: #ffc107;
+  color: #212529;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+}
+</style>
