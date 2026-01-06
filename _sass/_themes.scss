@@ -58,11 +58,11 @@
   }
 
   .only-light {
-    display: block;
+    display: block !important;
   }
 
   .only-dark {
-    display: none;
+    display: none !important;
   }
 
   #back-to-top {
@@ -115,11 +115,11 @@ html[data-theme="dark"] {
   --global-danger-block-title: #c00;
 
   .only-light {
-    display: none;
+    display: none !important;
   }
 
   .only-dark {
-    display: block;
+    display: block !important;
   }
 }
 

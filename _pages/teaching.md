@@ -17,7 +17,7 @@ nav_order: 6
 ## As Instructor {#instructor}
 
 ### Math 241: Calculus IV - Partial Differential Equations
-<div class="course-card">
+<div class="course-card" markdown="1">
   <div class="course-header">
     <span class="course-term">Summer 2017</span>
     <span class="course-role">Lead Instructor</span>
@@ -27,97 +27,103 @@ nav_order: 6
 
   **Textbook**: [Applied Partial Differential Equations](https://www.amazon.com/dp/0321797051/) by Richard Haberman
 
-  <details>
-    <summary><strong>📚 Course Materials</strong></summary>
-    
-  #### Lecture Notes
-  
-  **Week 1: Introduction to PDEs**
-  - [Lecture 1: Heat Equation Derivation](https://www2.math.upenn.edu/~qze/math241s17/LEC01.pdf) (Sections 1.1-1.3)
-  - [Lecture 2: Boundary Conditions](https://www2.math.upenn.edu/~qze/math241s17/LEC02.pdf) (Sections 1.4-1.5, 2.1-2.2)
-  - [Lecture 3: Separation of Variables](https://www2.math.upenn.edu/~qze/math241s17/LEC03.pdf) (Section 2.3-2.4)
-  - [Lecture 4: Eigenvalue Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC04.pdf) (Sections 2.5, 3.1-3.2)
-  - [Supplementary: ODE Review](https://www2.math.upenn.edu/~qze/math241s17/ODE notes.pdf)
+<details>
+<summary><strong>📚 Course Materials</strong></summary>
+<div markdown="1">
 
-  **Week 2: Fourier Series**
-  - [Lecture 5: Fourier Series Introduction](https://www2.math.upenn.edu/~qze/math241s17/LEC05.pdf) (Section 3.3.1)
-  - [Lecture 6: Fourier Convergence](https://www2.math.upenn.edu/~qze/math241s17/LEC06.pdf) (Sections 3.3.1-3.3.5, 3.6, 4.1-4.2)
-  - [Lecture 7: Wave Equation](https://www2.math.upenn.edu/~qze/math241s17/LEC07.pdf) (Sections 4.3-4.4)
+#### Lecture Notes
 
-  **Week 3: Advanced Topics**
-  - [Lecture 8: Sturm-Liouville Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC08.pdf) (Sections 5.1-5.4)
-  - [Lecture 9: Higher Dimensional PDEs](https://www2.math.upenn.edu/~qze/math241s17/LEC09.pdf) (Sections 7.1-7.3)
-  - [Lecture 10: Multidimensional Eigenvalue Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC10.pdf) (Sections 7.4-7.6)
-  - [Lecture 11: Bessel Functions](https://www2.math.upenn.edu/~qze/math241s17/LEC 11.pdf) (Section 7.7)
-  - [Supplementary: Sturm-Liouville Theory](https://www2.math.upenn.edu/~qze/math241s17/Sturm_Liouville.pdf)
-  - [Supplementary: Bessel Functions](https://www2.math.upenn.edu/~qze/math241s17/Bessel_functions.pdf)
+**Week 1: Introduction to PDEs**
+- [Lecture 1: Heat Equation Derivation](https://www2.math.upenn.edu/~qze/math241s17/LEC01.pdf) (Sections 1.1-1.3)
+- [Lecture 2: Boundary Conditions](https://www2.math.upenn.edu/~qze/math241s17/LEC02.pdf) (Sections 1.4-1.5, 2.1-2.2)
+- [Lecture 3: Separation of Variables](https://www2.math.upenn.edu/~qze/math241s17/LEC03.pdf) (Section 2.3-2.4)
+- [Lecture 4: Eigenvalue Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC04.pdf) (Sections 2.5, 3.1-3.2)
+- [Supplementary: ODE Review](https://www2.math.upenn.edu/~qze/math241s17/ODE notes.pdf)
 
-  **Week 4: Special Functions & Transforms**
-  - [Lecture 12: Laplace Equation & Special Functions](https://www2.math.upenn.edu/~qze/math241s17/LEC12.pdf) (Sections 7.9-7.10)
-  - [Lecture 13: Nonhomogeneous Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC13.pdf) (Sections 8.1-8.3)
-  - [Lecture 14: Eigenfunction Expansions](https://www2.math.upenn.edu/~qze/math241s17/LEC14.pdf) (Section 8.3)
-  - [Lecture 15: Introduction to Fourier Transforms](https://www2.math.upenn.edu/~qze/math241s17/LEC15.pdf) (Sections 8.6, 10.1-10.3)
-  - [Lecture 16: Fourier Transform Applications](https://www2.math.upenn.edu/~qze/math241s17/LEC16.pdf) (Section 10.3)
-  - [Lecture 17: Fourier Transform & PDEs](https://www2.math.upenn.edu/~qze/math241s17/LEC 17.pdf) (Sections 10.4, 10.6)
-  - [Supplementary: Laplace Equation on Cylinder](https://www2.math.upenn.edu/~qze/math241s17/laplacecylinder-3.pdf)
+**Week 2: Fourier Series**
+- [Lecture 5: Fourier Series Introduction](https://www2.math.upenn.edu/~qze/math241s17/LEC05.pdf) (Section 3.3.1)
+- [Lecture 6: Fourier Convergence](https://www2.math.upenn.edu/~qze/math241s17/LEC06.pdf) (Sections 3.3.1-3.3.5, 3.6, 4.1-4.2)
+- [Lecture 7: Wave Equation](https://www2.math.upenn.edu/~qze/math241s17/LEC07.pdf) (Sections 4.3-4.4)
 
-  #### Homework Assignments
-  <table class="table table-sm">
-    <thead>
-      <tr>
-        <th>Week</th>
-        <th>Assignment</th>
-        <th>Due Date</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>1</td>
-        <td>[HW 1A](https://www2.math.upenn.edu/~qze/math241s17/quiz0/hw1a.pdf), [HW 1B](https://www2.math.upenn.edu/~qze/math241s17/HW1b/hw1b.pdf)</td>
-        <td>May 25</td>
-      </tr>
-      <tr>
-        <td>1-2</td>
-        <td>[HW 2A](https://www2.math.upenn.edu/~qze/math241s17/HW2A/hw2A.pdf), [HW 2B](https://www2.math.upenn.edu/~qze/math241s17/HW2B/hw2B.pdf)</td>
-        <td>May 30</td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>[HW 3A](https://www2.math.upenn.edu/~qze/math241s17/HW3A/hw3a.pdf)</td>
-        <td>June 1</td>
-      </tr>
-      <tr>
-        <td>2-3</td>
-        <td>[HW 4A](https://www2.math.upenn.edu/~qze/math241s17/HW3B/hw4a.pdf), [HW 4B](https://www2.math.upenn.edu/~qze/math241s17/HW4B/hw4b.pdf)</td>
-        <td>June 5</td>
-      </tr>
-    </tbody>
-  </table>
+**Week 3: Advanced Topics**
+- [Lecture 8: Sturm-Liouville Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC08.pdf) (Sections 5.1-5.4)
+- [Lecture 9: Higher Dimensional PDEs](https://www2.math.upenn.edu/~qze/math241s17/LEC09.pdf) (Sections 7.1-7.3)
+- [Lecture 10: Multidimensional Eigenvalue Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC10.pdf) (Sections 7.4-7.6)
+- [Lecture 11: Bessel Functions](https://www2.math.upenn.edu/~qze/math241s17/LEC 11.pdf) (Section 7.7)
+- [Supplementary: Sturm-Liouville Theory](https://www2.math.upenn.edu/~qze/math241s17/Sturm_Liouville.pdf)
+- [Supplementary: Bessel Functions](https://www2.math.upenn.edu/~qze/math241s17/Bessel_functions.pdf)
 
-  #### Assessments
-  - [Quiz 0: Prerequisite Check](https://www2.math.upenn.edu/~qze/math241s17/quiz0/quiz0.pdf)
-  - [Quiz 1](https://www2.math.upenn.edu/~qze/math241s17/Quiz1/quiz1.pdf) (May 30)
-  - [Quiz 2](https://www2.math.upenn.edu/~qze/math241s17/quiz2/quiz2.pdf) (June 5)
-  - [Quiz 3](https://www2.math.upenn.edu/~qze/math241s17/Quiz3/quiz3.pdf) (June 12)
-  - Quiz 4 (June 19)
-  - Final Exam (June 27)
+**Week 4: Special Functions & Transforms**
+- [Lecture 12: Laplace Equation & Special Functions](https://www2.math.upenn.edu/~qze/math241s17/LEC12.pdf) (Sections 7.9-7.10)
+- [Lecture 13: Nonhomogeneous Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC13.pdf) (Sections 8.1-8.3)
+- [Lecture 14: Eigenfunction Expansions](https://www2.math.upenn.edu/~qze/math241s17/LEC14.pdf) (Section 8.3)
+- [Lecture 15: Introduction to Fourier Transforms](https://www2.math.upenn.edu/~qze/math241s17/LEC15.pdf) (Sections 8.6, 10.1-10.3)
+- [Lecture 16: Fourier Transform Applications](https://www2.math.upenn.edu/~qze/math241s17/LEC16.pdf) (Section 10.3)
+- [Lecture 17: Fourier Transform & PDEs](https://www2.math.upenn.edu/~qze/math241s17/LEC 17.pdf) (Sections 10.4, 10.6)
+- [Supplementary: Laplace Equation on Cylinder](https://www2.math.upenn.edu/~qze/math241s17/laplacecylinder-3.pdf)
 
-  #### Visualizations
-  <div class="video-grid">
-    <div>
-      <p>2D Heat Equation Animation:</p>
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/QBjniA5XfKA" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div>
-      <p>Vibrating Circular Membrane:</p>
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/asr7QfLksGo" frameborder="0" allowfullscreen></iframe>
-    </div>
-    <div>
-      <p>Spherical Harmonics:</p>
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/EcKgJhFdtEY" frameborder="0" allowfullscreen></iframe>
-    </div>
-  </div>
-  </details>
+#### Homework Assignments
+
+<table class="table table-sm">
+<thead>
+<tr>
+<th>Week</th>
+<th>Assignment</th>
+<th>Due Date</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td><a href="https://www2.math.upenn.edu/~qze/math241s17/quiz0/hw1a.pdf">HW 1A</a>, <a href="https://www2.math.upenn.edu/~qze/math241s17/HW1b/hw1b.pdf">HW 1B</a></td>
+<td>May 25</td>
+</tr>
+<tr>
+<td>1-2</td>
+<td><a href="https://www2.math.upenn.edu/~qze/math241s17/HW2A/hw2A.pdf">HW 2A</a>, <a href="https://www2.math.upenn.edu/~qze/math241s17/HW2B/hw2B.pdf">HW 2B</a></td>
+<td>May 30</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="https://www2.math.upenn.edu/~qze/math241s17/HW3A/hw3a.pdf">HW 3A</a></td>
+<td>June 1</td>
+</tr>
+<tr>
+<td>2-3</td>
+<td><a href="https://www2.math.upenn.edu/~qze/math241s17/HW3B/hw4a.pdf">HW 4A</a>, <a href="https://www2.math.upenn.edu/~qze/math241s17/HW4B/hw4b.pdf">HW 4B</a></td>
+<td>June 5</td>
+</tr>
+</tbody>
+</table>
+
+#### Assessments
+
+- [Quiz 0: Prerequisite Check](https://www2.math.upenn.edu/~qze/math241s17/quiz0/quiz0.pdf)
+- [Quiz 1](https://www2.math.upenn.edu/~qze/math241s17/Quiz1/quiz1.pdf) (May 30)
+- [Quiz 2](https://www2.math.upenn.edu/~qze/math241s17/quiz2/quiz2.pdf) (June 5)
+- [Quiz 3](https://www2.math.upenn.edu/~qze/math241s17/Quiz3/quiz3.pdf) (June 12)
+- Quiz 4 (June 19)
+- Final Exam (June 27)
+
+#### Visualizations
+
+<div class="video-grid">
+<div>
+<p>2D Heat Equation Animation:</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/QBjniA5XfKA" frameborder="0" allowfullscreen></iframe>
+</div>
+<div>
+<p>Vibrating Circular Membrane:</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/asr7QfLksGo" frameborder="0" allowfullscreen></iframe>
+</div>
+<div>
+<p>Spherical Harmonics:</p>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/EcKgJhFdtEY" frameborder="0" allowfullscreen></iframe>
+</div>
+</div>
+
+</div>
+</details>
 </div>
 
 ---
@@ -125,7 +131,7 @@ nav_order: 6
 ## As Teaching Assistant {#teaching-assistant}
 
 ### Math 601: Algebraic Topology
-<div class="course-card">
+<div class="course-card" markdown="1">
   <div class="course-header">
     <span class="course-term">Spring 2020</span>
     <span class="course-instructor">Instructor: Prof. Herman Gluck</span>
@@ -133,19 +139,22 @@ nav_order: 6
   
   **Topics**: Covering spaces, fundamental groups, van Kampen's theorem, classification of surfaces, homology and cohomology theory, CW complexes, Poincaré duality, and fixed point theorems.
 
-  <details>
-    <summary><strong>📝 Homework Solutions</strong></summary>
-    
-  - [HW2: Covering Spaces](https://www2.math.upenn.edu/~qze/math601s20/hw2.pdf)
-  - [HW3: Retractions, Borsuk-Ulam, Fund. Theorem of Algebra](https://www2.math.upenn.edu/~qze/math601s20/hw3.pdf)
-  - [HW4: Computing Fundamental Groups](https://www2.math.upenn.edu/~qze/math601s20/hw4.pdf)
-  - [HW5: Covering Space Revisited](https://www2.math.upenn.edu/~qze/math601s20/hw5.pdf)
-  - [HW6: More Covering Spaces](https://www2.math.upenn.edu/~qze/math601s20/hw6.pdf)
-  </details>
+<details>
+<summary><strong>📝 Homework Solutions</strong></summary>
+<div markdown="1">
+
+- [HW2: Covering Spaces](https://www2.math.upenn.edu/~qze/math601s20/hw2.pdf)
+- [HW3: Retractions, Borsuk-Ulam, Fund. Theorem of Algebra](https://www2.math.upenn.edu/~qze/math601s20/hw3.pdf)
+- [HW4: Computing Fundamental Groups](https://www2.math.upenn.edu/~qze/math601s20/hw4.pdf)
+- [HW5: Covering Space Revisited](https://www2.math.upenn.edu/~qze/math601s20/hw5.pdf)
+- [HW6: More Covering Spaces](https://www2.math.upenn.edu/~qze/math601s20/hw6.pdf)
+
+</div>
+</details>
 </div>
 
 ### Math 500: Topology
-<div class="course-card">
+<div class="course-card" markdown="1">
   <div class="course-header">
     <span class="course-term">Fall 2019 & Fall 2017</span>
     <span class="course-instructor">Instructors: Leandro Lichtenfelz (2019), Brian Weber (2017)</span>
@@ -155,7 +164,7 @@ nav_order: 6
 </div>
 
 ### Math 370: Abstract Algebra
-<div class="course-card">
+<div class="course-card" markdown="1">
   <div class="course-header">
     <span class="course-term">Spring 2018</span>
     <span class="course-instructor">Instructor: Prof. Alexandre Kirillov</span>
@@ -163,22 +172,25 @@ nav_order: 6
   
   **Topics**: Group theory, group actions, symmetry, linear groups, and elements of representation theory.
   
-  **Textbook**: [Algebra](https://www.amazon.com/Algebra-2nd-Michael-Artin/dp/0132413779) by M. Artin
+**Textbook**: [Algebra](https://www.amazon.com/Algebra-2nd-Michael-Artin/dp/0132413779) by M. Artin
 
-  <details>
-    <summary><strong>📚 Recitation Materials</strong></summary>
-    
-  - Week 1: [Group Theory Overview](https://dec41.user.srcf.net/notes/IA_M/groups.pdf)
-  - Week 2: [Lab Notes](https://www2.math.upenn.edu/~qze/math314s18/notes2.pdf) | [HW1 Solutions](https://www2.math.upenn.edu/~qze/math314s18/HW1.pdf)
-  - Week 3: [Lagrange's Theorem](https://www2.math.upenn.edu/~qze/math314s18/labw3.pdf) | [Proof Writing Guide](https://www2.math.upenn.edu/~qze/math314s18/proofs.pdf)
-  - Week 4: [Normal Subgroups](https://www2.math.upenn.edu/~qze/math314s18/labw4.pdf) | [Practice Problems](https://www2.math.upenn.edu/~qze/math314s18/algebraex.pdf)
-  
-  **Office Hours**: MW 5:30-6:30 PM, DRL 3C17
-  </details>
+<details>
+<summary><strong>📚 Recitation Materials</strong></summary>
+<div markdown="1">
+
+- Week 1: [Group Theory Overview](https://dec41.user.srcf.net/notes/IA_M/groups.pdf)
+- Week 2: [Lab Notes](https://www2.math.upenn.edu/~qze/math314s18/notes2.pdf) | [HW1 Solutions](https://www2.math.upenn.edu/~qze/math314s18/HW1.pdf)
+- Week 3: [Lagrange's Theorem](https://www2.math.upenn.edu/~qze/math314s18/labw3.pdf) | [Proof Writing Guide](https://www2.math.upenn.edu/~qze/math314s18/proofs.pdf)
+- Week 4: [Normal Subgroups](https://www2.math.upenn.edu/~qze/math314s18/labw4.pdf) | [Practice Problems](https://www2.math.upenn.edu/~qze/math314s18/algebraex.pdf)
+
+**Office Hours**: MW 5:30-6:30 PM, DRL 3C17
+
+</div>
+</details>
 </div>
 
 ### Math 314/514: Advanced Linear Algebra
-<div class="course-card">
+<div class="course-card" markdown="1">
   <div class="course-header">
     <span class="course-term">Spring 2018</span>
     <span class="course-instructor">Instructor: Prof. Antonella Grassi</span>
@@ -194,57 +206,57 @@ nav_order: 6
 </div>
 
 ### Math 241: Calculus IV
-<div class="course-card">
+<div class="course-card" markdown="1">
   <div class="course-header">
     <span class="course-term">Spring 2017 & Fall 2016</span>
     <span class="course-role">Teaching Assistant</span>
   </div>
-  
-  <details>
-    <summary><strong>📝 Fall 2016 Materials</strong></summary>
-    
-  <table class="table table-sm">
-    <thead>
-      <tr>
-        <th>Homework</th>
-        <th>Solutions</th>
-        <th>Additional Materials</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>[HW1](https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 1 (due Sep 14).pdf)</td>
-        <td>By Brandon Lin</td>
-        <td>[1st Order ODEs](https://www.math.upenn.edu/~kazdan/425S11/deturck/425S08/notes01.pdf)</td>
-      </tr>
-      <tr>
-        <td>[HW2](https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 2 (due Sep 23).pdf)</td>
-        <td>By Brandon Lin</td>
-        <td>[Heat Equation Derivation](https://www.math.upenn.edu/~kazdan/241S15/Notes/heat-eq.pdf)</td>
-      </tr>
-      <tr>
-        <td>[HW3](https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 3 (due Oct 3).pdf)</td>
-        <td>By Brandon Lin</td>
-        <td>[Fourier Series Examples](https://www.math.upenn.edu/~kazdan/312S13/Notes/fourier/Fourier_series_example.html)</td>
-      </tr>
-      <tr>
-        <td>[HW4](https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 4 (due Oct 14).pdf)</td>
-        <td>By Brandon Lin</td>
-        <td>[Non-homogeneous Wave Eq.](https://www2.math.upenn.edu/~qze/math241s17/note4.4.3.pdf)</td>
-      </tr>
-      <tr>
-        <td>[HW5](https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 5 (due Oct 21).pdf)</td>
-        <td>-</td>
-        <td>[Sturm-Liouville](https://www2.math.upenn.edu/~qze/math241s17/Sturm_Liouville.pdf) | [Bessel Functions](https://www2.math.upenn.edu/~qze/math241s17/Bessel_functions.pdf)</td>
-      </tr>
-      <tr>
-        <td>[HW6](https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 6 (due Oct 28).pdf)</td>
-        <td>-</td>
-        <td>-</td>
-      </tr>
-    </tbody>
-  </table>
-  </details>
+
+<details>
+<summary><strong>📝 Fall 2016 Materials</strong></summary>
+
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th>Homework</th>
+      <th>Solutions</th>
+      <th>Additional Materials</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 1 (due Sep 14).pdf">HW1</a></td>
+      <td>By Brandon Lin</td>
+      <td><a href="https://www.math.upenn.edu/~kazdan/425S11/deturck/425S08/notes01.pdf">1st Order ODEs</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 2 (due Sep 23).pdf">HW2</a></td>
+      <td>By Brandon Lin</td>
+      <td><a href="https://www.math.upenn.edu/~kazdan/241S15/Notes/heat-eq.pdf">Heat Equation Derivation</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 3 (due Oct 3).pdf">HW3</a></td>
+      <td>By Brandon Lin</td>
+      <td><a href="https://www.math.upenn.edu/~kazdan/312S13/Notes/fourier/Fourier_series_example.html">Fourier Series Examples</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 4 (due Oct 14).pdf">HW4</a></td>
+      <td>By Brandon Lin</td>
+      <td><a href="https://www2.math.upenn.edu/~qze/math241s17/note4.4.3.pdf">Non-homogeneous Wave Eq.</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 5 (due Oct 21).pdf">HW5</a></td>
+      <td>-</td>
+      <td><a href="https://www2.math.upenn.edu/~qze/math241s17/Sturm_Liouville.pdf">Sturm-Liouville</a> | <a href="https://www2.math.upenn.edu/~qze/math241s17/Bessel_functions.pdf">Bessel Functions</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://www2.math.upenn.edu/~qze/math241fall16/Homework Set 6 (due Oct 28).pdf">HW6</a></td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
+</details>
 </div>
 
 ---

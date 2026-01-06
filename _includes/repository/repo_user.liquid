@@ -20,15 +20,12 @@
 
 <div class="repo p-2 text-center">
   <a href="https://github.com/{{ include.username }}">
-    <img
-      class="only-light w-100"
-      alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_icons=true"
-    >
-    <img
-      class="only-dark w-100"
-      alt="{{ include.username }}"
-      src="https://github-readme-stats.vercel.app/api/?username={{ include.username }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_icons=true"
-    >
+    <div class="github-user-card">
+      <img src="https://github.com/{{ include.username }}.png" alt="{{ include.username }}" class="github-avatar">
+      <div class="github-user-info">
+        <h4>{{ include.username }}</h4>
+        <img src="https://img.shields.io/github/followers/{{ include.username }}?label=Followers&style=social" alt="followers">
+      </div>
+    </div>
   </a>
 </div>

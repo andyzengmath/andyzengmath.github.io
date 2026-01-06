@@ -33,15 +33,12 @@
 
 <div class="repo p-2 text-center">
   <a href="https://github.com/{{ include.repository }}">
-    <img
-      class="only-light w-100"
-      alt="{{ include.repository }}"
-      src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_light }}&locale={{ lang }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
-    >
-    <img
-      class="only-dark w-100"
-      alt="{{ include.repository }}"
-      src="https://github-readme-stats.vercel.app/api/pin/?username={{ repo_url[0] }}&repo={{ repo_url[1] }}&theme={{ site.repo_theme_dark }}&locale={{ lang }}&show_owner={{ show_owner }}&description_lines_count={{ max_lines }}"
-    >
+    <div class="github-repo-card">
+      <h5><i class="fa-brands fa-github"></i> {{ include.repository }}</h5>
+      <div class="repo-badges">
+        <img src="https://img.shields.io/github/stars/{{ include.repository }}?style=social" alt="stars">
+        <img src="https://img.shields.io/github/forks/{{ include.repository }}?style=social" alt="forks">
+      </div>
+    </div>
   </a>
 </div>

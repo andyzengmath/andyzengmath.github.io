@@ -1417,3 +1417,61 @@ figure.cover {
     color: #23212d !important;
   }
 }
+
+// GitHub Repository Cards
+.github-user-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1rem;
+  background: var(--global-card-bg-color);
+  border-radius: 8px;
+  border: 1px solid var(--global-divider-color);
+  transition: box-shadow 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  .github-avatar {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+  }
+
+  .github-user-info {
+    text-align: left;
+
+    h4 {
+      margin: 0 0 0.5rem 0;
+      color: var(--global-text-color);
+    }
+  }
+}
+
+.github-repo-card {
+  padding: 1rem;
+  background: var(--global-card-bg-color);
+  border-radius: 8px;
+  border: 1px solid var(--global-divider-color);
+  transition: box-shadow 0.2s ease;
+
+  &:hover {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  }
+
+  h5 {
+    margin: 0 0 0.75rem 0;
+    color: var(--global-text-color);
+
+    i {
+      margin-right: 0.5rem;
+    }
+  }
+
+  .repo-badges {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+  }
+}
