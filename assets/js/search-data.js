@@ -293,6 +293,9 @@ ninja.data = [{
           section: "News",},{id: "news-preprint-higher-riemann-hilbert-correspondence-for-foliations-is-on-arxiv-now-this-is-still-the-old-version-from-2021-and-will-be-significantly-updated-soon",
           title: 'Preprint Higher Riemann-Hilbert correspondence for foliations is on Arxiv now! This is still...',
           description: "",
+          section: "News",},{id: "news-launched-quiver-an-infinite-canvas-for-math-research-organize-ideas-visualize-concepts-and-collaborate-seamlessly",
+          title: '🚀 Launched Quiver — an infinite canvas for math research! Organize ideas, visualize...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -338,6 +341,46 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-derived-geometry-and-higher-categories",
+          title: 'Derived Geometry and Higher Categories',
+          description: "Derived and homotopical methods in complex geometry",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/derived-geometry/";
+            },},{id: "projects-financial-ai",
+          title: 'Financial AI',
+          description: "Machine learning applications in quantitative finance",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/financial-ai/";
+            },},{id: "projects-l-algebroids-and-lie-groupoids",
+          title: 'L∞-Algebroids and Lie ∞-Groupoids',
+          description: "Homotopy-theoretic structures in higher differential geometry",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/linfty-algebroids/";
+            },},{id: "projects-llm-amp-natural-language-processing",
+          title: 'LLM &amp;amp; Natural Language Processing',
+          description: "Research on Large Language Models and NLP applications",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/llm-nlp/";
+            },},{id: "projects-mathematical-physics",
+          title: 'Mathematical Physics',
+          description: "Geometric structures in gauge theory and field theory",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/mathematical-physics/";
+            },},{id: "projects-quiver",
+          title: 'Quiver',
+          description: "An infinite canvas for math research",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/quiver/";
+            },},{id: "projects-singular-foliations",
+          title: 'Singular Foliations',
+          description: "Geometry and topology of singular foliations on smooth manifolds",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/singular-foliations/";
+            },},{id: "projects-transcend-ai",
+          title: 'Transcend AI',
+          description: "AI-driven platform for rare genetic disease identification in pediatric care",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/transcend-ai/";
             },},{
         id: 'social-email',
         title: 'email',
