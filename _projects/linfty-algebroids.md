@@ -2,9 +2,9 @@
 layout: page
 title: L∞-Algebroids and Lie ∞-Groupoids
 description: Homotopy-theoretic structures in higher differential geometry
-img: assets/img/math-homotopy.jpg
-importance: 5
-category: work
+img: assets/img/1.jpg
+importance: 1
+category: Mathematics
 ---
 
 ## Overview

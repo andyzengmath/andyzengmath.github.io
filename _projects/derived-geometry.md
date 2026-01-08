@@ -2,9 +2,9 @@
 layout: page
 title: Derived Geometry and Higher Categories
 description: Derived and homotopical methods in complex geometry
-img: assets/img/math-derived.jpg
-importance: 7
-category: work
+img: assets/img/5.jpg
+importance: 3
+category: Mathematics
 ---
 
 ## Overview

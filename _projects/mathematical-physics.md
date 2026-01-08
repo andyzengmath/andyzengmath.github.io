@@ -2,9 +2,9 @@
 layout: page
 title: Mathematical Physics
 description: Geometric structures in gauge theory and field theory
-img: assets/img/math-physics.jpg
-importance: 8
-category: work
+img: assets/img/6.jpg
+importance: 4
+category: Mathematics
 ---
 
 ## Overview

@@ -4,7 +4,7 @@ title: Quiver
 description: An infinite canvas for math research
 img: https://www2.math.upenn.edu/~qze/quiver/favicon.svg
 importance: 1
-category: work
+category: AI and Machine Learning
 ---
 
 <div class="text-center mb-4">

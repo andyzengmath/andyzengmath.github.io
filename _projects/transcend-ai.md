@@ -2,9 +2,9 @@
 layout: page
 title: Transcend AI
 description: AI-driven platform for rare genetic disease identification in pediatric care
-img: assets/img/transcend-ai.jpg
+img: assets/img/9.jpg
 importance: 2
-category: work
+category: AI and Machine Learning
 ---
 
 <div class="text-center mb-4">

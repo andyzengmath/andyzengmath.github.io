@@ -2,9 +2,9 @@
 layout: page
 title: LLM & Natural Language Processing
 description: Research on Large Language Models and NLP applications
-img: assets/img/llm.jpg
+img: assets/img/7.jpg
 importance: 3
-category: work
+category: AI and Machine Learning
 ---
 
 ## Overview

@@ -2,9 +2,9 @@
 layout: page
 title: Financial AI
 description: Machine learning applications in quantitative finance
-img: assets/img/finance.jpg
+img: assets/img/10.jpg
 importance: 4
-category: work
+category: AI and Machine Learning
 ---
 
 ## Overview

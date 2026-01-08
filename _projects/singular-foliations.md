@@ -2,9 +2,9 @@
 layout: page
 title: Singular Foliations
 description: Geometry and topology of singular foliations on smooth manifolds
-img: assets/img/math-foliations.jpg
-importance: 6
-category: work
+img: assets/img/3.jpg
+importance: 2
+category: Mathematics
 ---
 
 ## Overview
