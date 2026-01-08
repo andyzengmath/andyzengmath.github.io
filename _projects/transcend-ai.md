@@ -28,7 +28,7 @@ Our key lessons learned:
 
 ## Team
 
-- **[Jeremy D. Wu](http://www.linkedin.com/in/jeremydwu)** — Research Postdoc at CHOP  
+- **[Jeremy D. Wu](https://sites.google.com/view/dawu)** — Research Postdoc at CHOP  
   *PhD Math Penn '23, MA Statistics Wharton '22, BSc Math McGill '18*
 
 - **[Jingye Yang](https://www.linkedin.com/in/jingyey/)** — Data Science Postdoc Fellow at Penn & CHOP  
