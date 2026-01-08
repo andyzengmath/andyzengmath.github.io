@@ -141,7 +141,7 @@ BS Math Stats & CS from Wake Forest. Co-author on Text-to-SQL paper at ICML 2025
 
 ---
 
-### Application of AI & Machine Learning in Sciences
+### Application of AI in Science and Engineering
 
 <div class="row mt-3">
 
@@ -195,6 +195,25 @@ PhD Math Penn '23, MA Statistics Wharton '22, BSc Math McGill '18. Advised by Ro
 PhD Math Penn '23, MA Statistics Wharton '22, MA Applied Math and Comp Science '18.
 </small></p>
 <a href="https://www.linkedin.com/in/jingyey/" class="card-link" target="_blank">LinkedIn</a>
+</div>
+</div>
+</div>
+
+<div class="col-md-6 mb-4">
+<div class="card h-100">
+<div class="card-body">
+<h5 class="card-title"><a href="https://profiles.cardiff.ac.uk/research-staff/tongy4" target="_blank">Yanzhang Tong</a></h5>
+<h6 class="card-subtitle mb-2 text-muted">Postdoc</h6>
+<p class="card-text">Peking University</p>
+<p class="card-text"><small>
+<strong>Research Interests:</strong> Human-Robot Interaction, User Experience, Augmented Reality, NLP/BERT, Manufacturing Systems
+</small></p>
+<p class="card-text"><small class="text-muted">
+PhD Cardiff '25 (Human-Robot Interaction), MSc Glasgow '17 (Design Innovation), BSc Chongqing '16 (Animation & VFX). RSA Fellow. Research on AR facial expression systems, HRC integration, and data-driven UX modeling.
+</small></p>
+<a href="https://profiles.cardiff.ac.uk/research-staff/tongy4" class="card-link" target="_blank">Cardiff Profile</a>
+<a href="https://scholar.google.com/citations?user=cfBLCAcAAAAJ&hl=en" class="card-link" target="_blank">Google Scholar</a>
+<a href="https://cn.linkedin.com/in/yanzhang-tong-120578181" class="card-link" target="_blank">LinkedIn</a>
 </div>
 </div>
 </div>
