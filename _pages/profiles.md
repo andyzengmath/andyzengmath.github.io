@@ -30,6 +30,7 @@ Here are some of the wonderful people I have had the pleasure to work and collab
 My PhD advisor. We work together on singular foliations, L∞-algebroids, and characteristic classes.
 </small></p>
 <a href="https://www2.math.upenn.edu/~blockj/" class="card-link" target="_blank">Website</a>
+<a href="https://www.math.upenn.edu/people/jonathan-block" class="card-link" target="_blank">UPenn Profile</a>
 <a href="mailto:blockj@math.upenn.edu" class="card-link">Email</a>
 </div>
 </div>
@@ -48,6 +49,7 @@ My PhD advisor. We work together on singular foliations, L∞-algebroids, and ch
 Pioneer of A∞-algebras and Stasheff polytopes (associahedra). His work on homotopy-coherent structures is foundational to modern higher algebra.
 </small></p>
 <a href="https://www2.math.upenn.edu/~jds/" class="card-link" target="_blank">Website</a>
+<a href="https://www.math.upenn.edu/people/james-stasheff" class="card-link" target="_blank">UPenn Profile</a>
 <a href="mailto:jds@math.upenn.edu" class="card-link">Email</a>
 </div>
 </div>
@@ -66,6 +68,8 @@ Pioneer of A∞-algebras and Stasheff polytopes (associahedra). His work on homo
 PhD Penn '13, Zorn Postdoc at Indiana University. We collaborate on holomorphic L∞-pairs and singular foliations.
 </small></p>
 <a href="https://sites.google.com/site/weizhaotingmath/" class="card-link" target="_blank">Website</a>
+<a href="https://www.etamu.edu/people/zhaoting-wei/" class="card-link" target="_blank">ETAMU Profile</a>
+<a href="mailto:zhaoting.wei@etamu.edu" class="card-link">Email</a>
 </div>
 </div>
 </div>
@@ -83,6 +87,8 @@ PhD Penn '13, Zorn Postdoc at Indiana University. We collaborate on holomorphic 
 PhD Caltech. Mentor: Dan Freed. Studies algebraic and topological structures in quantum many-body systems, bulk-boundary correspondence, and quantum cellular automata.
 </small></p>
 <a href="https://yangbowenmath.github.io/yangbowenmath/index.html" class="card-link" target="_blank">Website</a>
+<a href="https://cmsa.fas.harvard.edu/ss_people/bowen-yang/" class="card-link" target="_blank">Harvard Profile</a>
+<a href="mailto:bowen@cmsa.fas.harvard.edu" class="card-link">Email</a>
 </div>
 </div>
 </div>
@@ -171,6 +177,7 @@ BEng Tianjin, PhD Queensland. Editor at Water Research X. Develops AI and deep l
 PhD Math Penn '23, MA Statistics Wharton '22, BSc Math McGill '18. Advised by Robin Pemantle and Xin Sun.
 </small></p>
 <a href="https://sites.google.com/view/dawu" class="card-link" target="_blank">Website</a>
+<a href="https://www.linkedin.com/in/jeremy-da-wu/" class="card-link" target="_blank">LinkedIn</a>
 </div>
 </div>
 </div>
