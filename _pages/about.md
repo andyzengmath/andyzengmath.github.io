@@ -37,3 +37,5 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
  My primary interest lies in *(derived) higher differential geometry* which is the study of an $(\infty,1)$-topos into which standard differential geometry faithfully embeds. In particular, I work on homotopy theory of $L_{\infty}$-algebroids and Lie $\infty$-groupoids. Topics I find fascinating also include index theory, K-theory, and mathematical physics.
 
  I am also interested various topics in AI and Machine Learning, in particular, Reinforcement Learning, Geometric Deep Learning, Graph Representation Learning etc. I have been working on multiple Generative AI and LLM applications, including Natural Language to SQL (NL2SQL), Orchestration, LLM evaluation etc.
+
+ I created <a href="https://www2.math.upenn.edu/~qze/quiver/"><img src="https://www2.math.upenn.edu/~qze/quiver/favicon.svg" alt="Quiver" style="height: 1.2em; vertical-align: middle;"> **Quiver**</a> — an infinite canvas for math research, designed to help mathematicians organize ideas, visualize concepts, and collaborate seamlessly.
