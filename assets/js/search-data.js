@@ -277,11 +277,46 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-the-godfather",
+      },{id: "books-higher-topos-theory",
+          title: 'Higher Topos Theory',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/higher_topos_theory/";
+            },},{id: "books-中国建筑史-history-of-chinese-architecture",
+          title: '中国建筑史 (History of Chinese Architecture)',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/history_of_chinese_architecture/";
+            },},{id: "books-the-elegant-universe",
+          title: 'The Elegant Universe',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_elegant_universe/";
+            },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "books-the-last-stargazers-the-enduring-story-of-astronomy-39-s-vanishing-explorers",
+          title: 'The Last Stargazers: The Enduring Story of Astronomy&amp;#39;s Vanishing Explorers',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_last_stargazers/";
+            },},{id: "books-the-road-to-reality",
+          title: 'The Road to Reality',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_road_to_reality/";
+            },},{id: "books-the-three-body-problem",
+          title: 'The Three-Body Problem',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_three_body_problem/";
+            },},{id: "books-the-wraparound-universe",
+          title: 'The Wraparound Universe',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_wraparound_universe/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
@@ -341,6 +376,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-ai-powered-codebase-analysis",
+          title: 'AI-Powered Codebase Analysis',
+          description: "Enhancing software readability and understanding through intelligent analysis",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/ai-codebase-analysis/";
             },},{id: "projects-derived-geometry-and-higher-categories",
           title: 'Derived Geometry and Higher Categories',
           description: "Derived and homotopical methods in complex geometry",
@@ -351,8 +391,8 @@ ninja.data = [{
           description: "Machine learning applications in quantitative finance",
           section: "Projects",handler: () => {
               window.location.href = "/projects/financial-ai/";
-            },},{id: "projects-l-algebroids-and-lie-groupoids",
-          title: 'L∞-Algebroids and Lie ∞-Groupoids',
+            },},{id: "projects-l-infty-algebroids-and-lie-infty-groupoids",
+          title: '$L_\infty$-Algebroids and Lie $\infty$-Groupoids',
           description: "Homotopy-theoretic structures in higher differential geometry",
           section: "Projects",handler: () => {
               window.location.href = "/projects/linfty-algebroids/";
@@ -381,6 +421,11 @@ ninja.data = [{
           description: "AI-driven platform for rare genetic disease identification in pediatric care",
           section: "Projects",handler: () => {
               window.location.href = "/projects/transcend-ai/";
+            },},{id: "projects-waterrag",
+          title: 'WaterRAG',
+          description: "Agentic RAG framework for wastewater treatment to support net-zero carbon emissions",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/waterrag/";
             },},{
         id: 'social-email',
         title: 'email',
