@@ -277,31 +277,41 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-higher-topos-theory",
+      },{id: "books-the-elegant-universe",
+          title: 'The Elegant Universe',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/the_elegant_universe/";
+            },},{id: "books-love-and-math-the-heart-of-hidden-reality",
+          title: 'Love and Math: The Heart of Hidden Reality',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/love_and_math/";
+            },},{id: "books-higher-topos-theory",
           title: 'Higher Topos Theory',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/higher_topos_theory/";
+            },},{id: "books-the-shape-of-inner-space-string-theory-and-the-geometry-of-the-universe-39-s-hidden-dimensions",
+          title: 'The Shape of Inner Space: String Theory and the Geometry of the Universe&amp;#39;s...',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/shape_of_inner_space/";
             },},{id: "books-中国建筑史-history-of-chinese-architecture",
           title: '中国建筑史 (History of Chinese Architecture)',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/history_of_chinese_architecture/";
-            },},{id: "books-the-elegant-universe",
-          title: 'The Elegant Universe',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_elegant_universe/";
             },},{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "books-the-last-stargazers-the-enduring-story-of-astronomy-39-s-vanishing-explorers",
-          title: 'The Last Stargazers: The Enduring Story of Astronomy&amp;#39;s Vanishing Explorers',
+            },},{id: "books-warped-passages-unraveling-the-mysteries-of-the-universe-39-s-hidden-dimensions",
+          title: 'Warped Passages: Unraveling the Mysteries of the Universe&amp;#39;s Hidden Dimensions',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_last_stargazers/";
+              window.location.href = "/books/warped_passages/";
             },},{id: "books-the-road-to-reality",
           title: 'The Road to Reality',
           description: "",
@@ -312,11 +322,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_three_body_problem/";
-            },},{id: "books-the-wraparound-universe",
-          title: 'The Wraparound Universe',
+            },},{id: "books-the-last-stargazers-the-enduring-story-of-astronomy-39-s-vanishing-explorers",
+          title: 'The Last Stargazers: The Enduring Story of Astronomy&amp;#39;s Vanishing Explorers',
           description: "",
           section: "Books",handler: () => {
-              window.location.href = "/books/the_wraparound_universe/";
+              window.location.href = "/books/the_last_stargazers/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
