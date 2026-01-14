@@ -61,16 +61,16 @@
               {% for item in content.description %}
                 <li>
                   {% if item.contents %}
-                    <span class="item-title">{{ item.title }}</span>
+                    <span class="item-title">{{ item.title | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                     <ul class="subitems">
                       {% for subitem in item.contents %}
                         <li>
-                          <span class="subitem">{{ subitem }}</span>
+                          <span class="subitem">{{ subitem | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                         </li>
                       {% endfor %}
                     </ul>
                   {% else %}
-                    <span class="item">{{ item }}</span>
+                    <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                   {% endif %}
                 </li>
               {% endfor %}
@@ -81,16 +81,16 @@
               {% for item in content.items %}
                 <li>
                   {% if item.contents %}
-                    <span class="item-title">{{ item.title }}</span>
+                    <span class="item-title">{{ item.title | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                     <ul class="subitems">
                       {% for subitem in item.contents %}
                         <li>
-                          <span class="subitem">{{ subitem }}</span>
+                          <span class="subitem">{{ subitem | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                         </li>
                       {% endfor %}
                     </ul>
                   {% else %}
-                    <span class="item">{{ item }}</span>
+                    <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
                   {% endif %}
                 </li>
               {% endfor %}

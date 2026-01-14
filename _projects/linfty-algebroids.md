@@ -1,6 +1,6 @@
 ---
 layout: page
-title: L∞-Algebroids and Lie ∞-Groupoids
+title: $L_\infty$-Algebroids and Lie $\infty$-Groupoids
 description: Homotopy-theoretic structures in higher differential geometry
 img: assets/img/1.jpg
 importance: 1
