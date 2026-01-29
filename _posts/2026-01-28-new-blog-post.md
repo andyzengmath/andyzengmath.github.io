@@ -7,7 +7,6 @@ tags: math index-theory derived-geometry singular-foliations differential-geomet
 categories: math
 ---
 
-### Higher Pseudodifferential Calculus and Index Theory
 
 Having modeled the holonomy coherence object $\mathcal{H}_\bullet$ via a cosimplicial diagram in the category of correspondences $\mathbf{Corr}(C^*)$ (and consequently in $\mathbf{KK}$), we now construct the associated elliptic theory. We distinguish between the robust analytic existence of the index (Theorem A) and the conjectural geometric formula in the derived setting (Conjecture B).
 
