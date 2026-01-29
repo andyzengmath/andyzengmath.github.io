@@ -10,6 +10,8 @@ tags: ["chinese architecture", "architectural history", "structural systems"]
 
 buy_link: https://www.amazon.com/Pictorial-History-Chinese-Architecture-Development/dp/0262121034
 olid: OL1261087A
+cover: /assets/img/books/history_of_chinese_architecture.jpg
+
 
 date: 2026-01-13
 ---
