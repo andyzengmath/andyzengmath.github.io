@@ -9,7 +9,8 @@ categories: math
 
 ### Section: Higher Pseudodifferential Calculus and Index Theory
 
-Having modeled the holonomy coherence object $\mathcal{H}_\bullet$ via a cosimplicial diagram in the category of correspondences $\mathbf{Corr}(C^\ast)$ (and consequently in $\mathbf{KK}$), we now construct the associated elliptic theory. We distinguish between the robust analytic existence of the index (Theorem A) and the conjectural geometric formula in the derived setting (Conjecture B).
+Having modeled the holonomy coherence object $\mathcal{H}_ \bullet$ via a cosimplicial diagram in the category of correspondences $\mathbf{Corr}(C^\ast)$ (and consequently in $\mathbf{KK}$), we now construct the associated elliptic theory. We distinguish between the robust analytic existence of the index (Theorem A) and the conjectural geometric formula in the derived setting (Conjecture B).
+
 
 
 #### 1. Cosimplicial Calculus and Symbols
@@ -17,19 +18,23 @@ Having modeled the holonomy coherence object $\mathcal{H}_\bullet$ via a cosimpl
 We construct the calculus level-wise using the classical Androulidakis-Skandalis (AS) machinery, but organized coherently across the simplicial structure.
 
 **Definition 1 (The Analytic Diagram):**
-For each level $n$, choose a longitudinally smooth presentation $G_n$ (e.g., a holonomy pair) of the stack level $\mathcal{H}_n$. Let $A^n := C^\ast(G_n)$ (optionally twisted by a bundle $\Sigma_n$ if required). The geometric cofaces and degeneracies are represented by bibundles, inducing correspondences. This data defines a cosimplicial object $A^\bullet$ in $\mathbf{Corr}(C^\ast)$ and $\mathbf{KK}$.
+For each level $n$, choose a longitudinally smooth presentation $G_n$ (e.g., a holonomy pair) of the stack level $\mathcal{H}_ n$. Let $A^n := C^\ast(G_ n)$ (optionally twisted by a bundle $\Sigma_ n$ if required). The geometric cofaces and degeneracies are represented by bibundles, inducing correspondences. This data defines a cosimplicial object $A^\bullet$ in $\mathbf{Corr}(C^\ast)$ and $\mathbf{KK}$.
+
 
 
 **Definition 2 (The Calculus Triangle):**
-For each $n$, the AS longitudinal pseudodifferential calculus on $G_n$ yields a short exact sequence of $C^\ast$-algebras (or an extension), which defines a distinguished triangle in $\mathbf{KK}$:
+For each $n$, the AS longitudinal pseudodifferential calculus on $G_ n$ yields a short exact sequence of $C^\ast$-algebras (or an extension), which defines a distinguished triangle in $\mathbf{KK}$:
+
 
 
 $$ \Sigma_{\text{cl}}^n \xrightarrow{\partial_n} A^n \longrightarrow \Psi^0_n \longrightarrow \Sigma_{\text{cl}}^n[1] $$
 
-Here, $\Sigma_{\text{cl}}^n \cong C_0(S^\ast\mathcal{F}_n)$ is the algebra of classical symbols on the presentation, and $\Psi^0_n$ is the algebra of order-0 pseudodifferential multipliers compatible with the presentation.
+Here, $\Sigma_ {\text{cl}}^n \cong C_0(S^\ast\mathcal{F}_ n)$ is the algebra of classical symbols on the presentation, and $\Psi^0_ n$ is the algebra of order-0 pseudodifferential multipliers compatible with the presentation.
 
 
-**Assumption (Naturality):** We assume the boundary classes $\partial_n \in KK(\Sigma_{\text{cl}}^n, A^n)$ assemble into a morphism of cosimplicial K-theory spectra:
+
+**Assumption (Naturality):** We assume the boundary classes $\partial_ n \in KK(\Sigma_ {\text{cl}}^n, A^n)$ assemble into a morphism of cosimplicial K-theory spectra:
+
 
 $$ \partial_\bullet: \mathbb{K}(\Sigma_{\text{cl}}^\bullet) \longrightarrow \Sigma \mathbb{K}(A^\bullet) $$
 
@@ -55,7 +60,8 @@ We call this the **Higher Analytic Index**.
 #### 3. Main Results
 
 **Theorem A (Existence and Descent):**
-Under the hypotheses above, the Higher Index $\text{Ind}\_\bullet$ is well-defined. Moreover, the target group $\pi\_\ast \text{Tot } \mathbb{K}(A^\bullet)$ is computed by the **Bousfield–Kan Descent Spectral Sequence**:
+Under the hypotheses above, the Higher Index $\text{Ind}_ \bullet$ is well-defined. Moreover, the target group $\pi_ \ast \text{Tot } \mathbb{K}(A^\bullet)$ is computed by the **Bousfield–Kan Descent Spectral Sequence**:
+
 
 
 
@@ -64,7 +70,8 @@ $$ E_2^{p,q} = H^p_{\text{cosimp}}(\Delta; \pi_q \mathbb{K}(A^\bullet)) \implies
 (assuming standard fibrancy conditions, e.g., after Reedy fibrant replacement). The $E_2$-page of this spectral sequence organizes the higher descent obstructions; in examples with non-trivial isotropy coherence (such as the $SL_2$-action foliation), these obstructions yield a non-trivial filtration of the index group.
 
 **Conjecture B (Derived Geometric Index Formula):**
-Suppose the foliation $\mathcal{F}$ admits a Lie $\infty$-algebroid resolution inducing a derived cotangent complex $\mathbb{L}\_{\mathcal{H}}$ for the associated derived stack. We conjecture that the analytic index $\text{Ind}\_\bullet$ admits a cohomological expression via a descent-compatible Chern–Connes character paired with characteristic classes built from $\mathbb{L}\_{\mathcal{H}}$ and a suitable cyclic-type theory of the derived stack.
+Suppose the foliation $\mathcal{F}$ admits a Lie $\infty$-algebroid resolution inducing a derived cotangent complex $\mathbb{L}_ {\mathcal{H}}$ for the associated derived stack. We conjecture that the analytic index $\text{Ind}_ \bullet$ admits a cohomological expression via a descent-compatible Chern–Connes character paired with characteristic classes built from $\mathbb{L}_ {\mathcal{H}}$ and a suitable cyclic-type theory of the derived stack.
+
 
 
 In orbifold-like regimes (proper étale/compact isotropy), this should recover Kawasaki-type isotropy corrections.
