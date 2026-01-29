@@ -90,17 +90,6 @@ ninja.data = [{
             window.location.href = "/blog/2026/new-blog-post/";
           
         },
-      },{id: "post-higher-pseudodifferential-calculus-and-index-theory",
-        
-          title: "Higher Pseudodifferential Calculus and Index Theory",
-        
-        description: "Some new results of my upcoming preprint *Higher geometric stacks on singular foliations*.A discussion on constructing elliptic theory for holonomy coherence objects using cosimplicial diagrams and derived geometry.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/higher-pseudodifferential-calculus/";
-          
-        },
       },{id: "post-a-joke-about-the-math-department-39-s-funding-cuts",
         
           title: "A joke about the math department&#39;s funding cuts.",
