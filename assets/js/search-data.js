@@ -427,6 +427,16 @@ ninja.data = [{
           description: "Geometric structures in gauge theory and field theory",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mathematical-physics/";
+            },},{id: "projects-quantum-loop",
+          title: 'Quantum-Loop',
+          description: "Spec-driven autonomous development loop for Claude Code",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/quantum-loop/";
+            },},{id: "projects-quiver-math-research-agent",
+          title: 'Quiver Math Research Agent',
+          description: "AI-powered math research assistant with branching dialogue, RAG knowledge retrieval, and paper writing",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/quiver-math-research-agent/";
             },},{id: "projects-quiver",
           title: 'Quiver',
           description: "An infinite canvas for math research",
@@ -437,6 +447,11 @@ ninja.data = [{
           description: "Geometry and topology of singular foliations on smooth manifolds",
           section: "Projects",handler: () => {
               window.location.href = "/projects/singular-foliations/";
+            },},{id: "projects-soliton",
+          title: 'Soliton',
+          description: "Risk-adaptive multi-agent PR review for Claude Code &amp; Cursor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/soliton/";
             },},{id: "projects-transcend-ai",
           title: 'Transcend AI',
           description: "AI-driven platform for rare genetic disease identification in pediatric care",
