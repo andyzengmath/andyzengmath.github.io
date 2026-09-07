@@ -79,7 +79,29 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "post-higher-pseudodifferential-calculus-and-index-theory",
+            },{id: "post-superconnections-on-transversely-holomorphic-foliations",
+        
+          title: "Superconnections on transversely holomorphic foliations",
+        
+        description: "A finite superconnection model for derived coherent sheaves, connecting de Rham geometry, Dolbeault geometry, and monodromy.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/superconnections-transversely-holomorphic-foliations/";
+          
+        },
+      },{id: "post-higher-riemann-hilbert-correspondence-for-regular-foliations",
+        
+          title: "Higher Riemann-Hilbert correspondence for regular foliations",
+        
+        description: "From flat leafwise superconnections to smooth higher parallel transport, with a local-to-global descent theorem.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/higher-riemann-hilbert-regular-foliations/";
+          
+        },
+      },{id: "post-higher-pseudodifferential-calculus-and-index-theory",
         
           title: "Higher Pseudodifferential Calculus and Index Theory",
         
