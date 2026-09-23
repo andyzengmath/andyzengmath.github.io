@@ -58,7 +58,7 @@
         - title: Courses Taught
           contents:
             - Summer 2019 Calculus Problem Session
-            - Summer 2018 Calculus Problem Session 
+            - Summer 2018 Calculus Problem Session
             - Summer 2017 Math 241 Calculus IV (applied partial differential equations)
     - title: Research and Teaching Assistant
       institution: University of Pennsylvania, Philadelphia, Pennsylvania, US
@@ -106,11 +106,11 @@
         - The Excellent Graduate of the Year, China Education Association for International Exchange
     - year: 2013
       items:
-        - Klaus Fischer Award, Department of Mathematics, George Mason University 
-        - Vernon Smith Economics Essay Contest 2nd Place, Department of Economics, George Mason University 
+        - Klaus Fischer Award, Department of Mathematics, George Mason University
+        - Vernon Smith Economics Essay Contest 2nd Place, Department of Economics, George Mason University
     - year: 2011
       items:
-        - Sino-American 121 scholarship, China Center for International Education Exchange 
+        - Sino-American 121 scholarship, China Center for International Education Exchange
 
 - title: Academic Interests
   type: nested_list
@@ -121,7 +121,7 @@
         - Index theory of foliations
         - Homotopy theory of Lie infinity groupoids and algebroids
         - Deformation theory by L_infinity algebroids
-        
+
     - title: AI and Machine Learning
       items:
         - Reinforcement learning

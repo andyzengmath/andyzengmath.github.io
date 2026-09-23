@@ -11,7 +11,6 @@ buy_link: https://www.amazon.com/Shape-Inner-Space-Geometry-Dimensions/dp/046502
 olid: OL15707738W
 date: 2022-01-01
 cover: /assets/img/books/shape_of_inner_space.jpg
-
 ---
 
 "The Shape of Inner Space" is a fascinating journey into the geometry that underlies string theory, written by Shing-Tung Yau, a Fields Medalist and one of the world's leading geometers, along with Steve Nadis. The book focuses on Calabi-Yau manifolds—complex geometric shapes that potentialy form the six hidden dimensions required by string theory.

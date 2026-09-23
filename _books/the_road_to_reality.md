@@ -12,7 +12,6 @@ buy_link: https://www.amazon.com/Road-Reality-Complete-Guide-Universe/dp/0679776
 olid: OL17769733W
 date: 2016-01-01
 cover: /assets/img/books/the_road_to_reality.jpg
-
 ---
 
 "The Road to Reality: A Complete Guide to the Laws of the Universe" by Roger Penrose is an extensive work that explores modern theoretical physics and the foundational mathematics underpinning our understanding of the universe.

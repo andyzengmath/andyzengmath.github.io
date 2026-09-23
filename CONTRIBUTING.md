@@ -10,6 +10,18 @@ If you would like to implement a new feature or a bug, please make sure you (or 
 
 Note that since [#2048](https://github.com/alshedivat/al-folio/pull/2048) al-folio uses the [prettier formatter](https://prettier.io/) for its code, meaning all new submitted code must conform to its standard. If you don't have `prettier` installed for your setup and the `prettier` code check fails when submitting a PR, you can check the referred failed action in our repo. In that action there will be an artifact with an HTML diff showing the needed changes.
 
+### Formatting
+
+Use Node.js 24 and the locked dependencies to match the formatter workflow:
+
+```sh
+npm ci
+npx --no-install prettier . --check
+```
+
+To apply the required formatting, run `npx --no-install prettier . --write` and review the diff before committing. The check covers the whole repository,
+not only the files changed in a pull request, and expects LF line endings.
+
 ## Issues
 
 We use GitHub issues to track bugs and feature requests.

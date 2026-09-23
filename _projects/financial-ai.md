@@ -14,13 +14,15 @@ Research applying modern machine learning techniques to financial markets, inclu
 ## Publications
 
 ### Financial Sentiment Analysis using FinBERT with Application in Predicting Stock Movement
+
 **arXiv 2023**
 
-*Tingsong Jiang, Andy Zeng*
+_Tingsong Jiang, Andy Zeng_
 
 We apply sentiment analysis in financial contexts using FinBERT, and build a deep neural network model based on LSTM to predict financial market movements. We apply this model on stock news datasets and compare its effectiveness to BERT, LSTM, and classical ARIMA models.
 
 **Key Findings:**
+
 - Sentiment is an effective factor in predicting market movement
 - FinBERT outperforms general-purpose BERT for financial text
 - Proposed methods to improve model accuracy

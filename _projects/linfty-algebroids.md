@@ -14,9 +14,10 @@ This research program develops the theory of $L_\infty$-algebroids and Lie $\inf
 ## Publications
 
 ### Derived Lie ∞-Groupoids and Algebroids in Higher Differential Geometry
+
 **PhD Dissertation, University of Pennsylvania (2021)**
 
-*Andy Zeng*
+_Andy Zeng_
 
 We study various problems arising in higher geometry using derived Lie $\infty$-groupoids and algebroids. We construct homotopical algebras for derived Lie $\infty$-groupoids and algebroids and study their homotopy-coherent representations. We apply these tools to singular foliations and their characteristic classes, and prove an $A_\infty$ de Rham theorem and higher Riemann-Hilbert correspondence for foliated manifolds.
 
@@ -26,9 +27,10 @@ We study various problems arising in higher geometry using derived Lie $\infty$-
 ---
 
 ### Higher Riemann-Hilbert Correspondence for Foliations
+
 **arXiv 2025**
 
-*Andy Zeng*
+_Andy Zeng_
 
 This paper explores foliated differential graded algebras and their role in extending fundamental theorems of differential geometry to foliations. We establish an $A_\infty$ de Rham theorem for foliations and prove a higher Riemann-Hilbert correspondence, revealing an equivalence between $\infty$-representations of $L_\infty$-algebroids and $\infty$-representations of Lie $\infty$-groupoids within the context of foliations.
 
@@ -37,8 +39,9 @@ This paper explores foliated differential graded algebras and their role in exte
 ---
 
 ### Holomorphic $L_\infty$-pairs and $L_\infty$-algebroids of Holomorphic Singular Foliations
+
 **In Preparation**
 
-*Jonathan Block, Zhaoting Wei, Andy Zeng*
+_Jonathan Block, Zhaoting Wei, Andy Zeng_
 
 We study holomorphic $L_\infty$-pairs and $L_\infty$-algebroids of holomorphic singular foliations.

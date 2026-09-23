@@ -12,7 +12,6 @@ buy_link: https://www.amazon.com/Pictorial-History-Chinese-Architecture-Developm
 olid: OL1261087A
 cover: /assets/img/books/history_of_chinese_architecture.jpg
 
-
 date: 2026-01-13
 ---
 

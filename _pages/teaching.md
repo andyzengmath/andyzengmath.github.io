@@ -17,6 +17,7 @@ nav_order: 6
 ## As Instructor {#instructor}
 
 ### Math 241: Calculus IV - Partial Differential Equations
+
 <div class="course-card" markdown="1">
   <div class="course-header">
     <span class="course-term">Summer 2017</span>
@@ -25,7 +26,7 @@ nav_order: 6
   
   **Course Description**: Introduction to Partial Differential Equations (PDEs) including Heat, Wave and Laplace equations, Separation of Variables, Fourier series, Sturm-Liouville problems, Bessel functions and Fourier transform.
 
-  **Textbook**: [Applied Partial Differential Equations](https://www.amazon.com/dp/0321797051/) by Richard Haberman
+**Textbook**: [Applied Partial Differential Equations](https://www.amazon.com/dp/0321797051/) by Richard Haberman
 
 <details>
 <summary><strong>📚 Course Materials</strong></summary>
@@ -34,6 +35,7 @@ nav_order: 6
 #### Lecture Notes
 
 **Week 1: Introduction to PDEs**
+
 - [Lecture 1: Heat Equation Derivation](https://www2.math.upenn.edu/~qze/math241s17/LEC01.pdf) (Sections 1.1-1.3)
 - [Lecture 2: Boundary Conditions](https://www2.math.upenn.edu/~qze/math241s17/LEC02.pdf) (Sections 1.4-1.5, 2.1-2.2)
 - [Lecture 3: Separation of Variables](https://www2.math.upenn.edu/~qze/math241s17/LEC03.pdf) (Section 2.3-2.4)
@@ -41,11 +43,13 @@ nav_order: 6
 - [Supplementary: ODE Review](https://www2.math.upenn.edu/~qze/math241s17/ODE notes.pdf)
 
 **Week 2: Fourier Series**
+
 - [Lecture 5: Fourier Series Introduction](https://www2.math.upenn.edu/~qze/math241s17/LEC05.pdf) (Section 3.3.1)
 - [Lecture 6: Fourier Convergence](https://www2.math.upenn.edu/~qze/math241s17/LEC06.pdf) (Sections 3.3.1-3.3.5, 3.6, 4.1-4.2)
 - [Lecture 7: Wave Equation](https://www2.math.upenn.edu/~qze/math241s17/LEC07.pdf) (Sections 4.3-4.4)
 
 **Week 3: Advanced Topics**
+
 - [Lecture 8: Sturm-Liouville Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC08.pdf) (Sections 5.1-5.4)
 - [Lecture 9: Higher Dimensional PDEs](https://www2.math.upenn.edu/~qze/math241s17/LEC09.pdf) (Sections 7.1-7.3)
 - [Lecture 10: Multidimensional Eigenvalue Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC10.pdf) (Sections 7.4-7.6)
@@ -54,6 +58,7 @@ nav_order: 6
 - [Supplementary: Bessel Functions](https://www2.math.upenn.edu/~qze/math241s17/Bessel_functions.pdf)
 
 **Week 4: Special Functions & Transforms**
+
 - [Lecture 12: Laplace Equation & Special Functions](https://www2.math.upenn.edu/~qze/math241s17/LEC12.pdf) (Sections 7.9-7.10)
 - [Lecture 13: Nonhomogeneous Problems](https://www2.math.upenn.edu/~qze/math241s17/LEC13.pdf) (Sections 8.1-8.3)
 - [Lecture 14: Eigenfunction Expansions](https://www2.math.upenn.edu/~qze/math241s17/LEC14.pdf) (Section 8.3)
@@ -131,6 +136,7 @@ nav_order: 6
 ## As Teaching Assistant {#teaching-assistant}
 
 ### Math 601: Algebraic Topology
+
 <div class="course-card" markdown="1">
   <div class="course-header">
     <span class="course-term">Spring 2020</span>
@@ -154,6 +160,7 @@ nav_order: 6
 </div>
 
 ### Math 500: Topology
+
 <div class="course-card" markdown="1">
   <div class="course-header">
     <span class="course-term">Fall 2019 & Fall 2017</span>
@@ -164,6 +171,7 @@ nav_order: 6
 </div>
 
 ### Math 370: Abstract Algebra
+
 <div class="course-card" markdown="1">
   <div class="course-header">
     <span class="course-term">Spring 2018</span>
@@ -190,6 +198,7 @@ nav_order: 6
 </div>
 
 ### Math 314/514: Advanced Linear Algebra
+
 <div class="course-card" markdown="1">
   <div class="course-header">
     <span class="course-term">Spring 2018</span>
@@ -206,6 +215,7 @@ nav_order: 6
 </div>
 
 ### Math 241: Calculus IV
+
 <div class="course-card" markdown="1">
   <div class="course-header">
     <span class="course-term">Spring 2017 & Fall 2016</span>

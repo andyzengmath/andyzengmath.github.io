@@ -16,7 +16,7 @@ This research addresses the growing challenges of managing and understanding inc
 Modern software systems face escalating complexity through three core challenges:
 
 - **Dependency Hell** — Hidden couplings, circular references, and compatibility conflicts that obscure ripple effects of changes
-- **Obscured Structure** — Architectural ambiguity that slows navigation, increases onboarding costs, and stifles refactoring  
+- **Obscured Structure** — Architectural ambiguity that slows navigation, increases onboarding costs, and stifles refactoring
 - **Limited Explainability** — Poor visibility into code's purpose and impact, leading to debugging delays and redundant code
 
 These issues compound into tangible business risks: higher development costs, slower innovation, and mounting technical debt.
@@ -28,4 +28,4 @@ Traditional methods like manual code reviews lack scalability, while LLMs strugg
 ## Collaborator
 
 - **[Feijiang Han](https://feijianghan.com)** — CS Graduate Student, University of Pennsylvania  
-  *Research on LLMs, Vision-Language Models, NLP, AI for Science*
+  _Research on LLMs, Vision-Language Models, NLP, AI for Science_

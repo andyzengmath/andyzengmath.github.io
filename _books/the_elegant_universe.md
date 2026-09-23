@@ -12,7 +12,6 @@ buy_link: https://www.amazon.com/Elegant-Universe-Superstrings-Dimensions-Ultima
 olid: OL24416865M
 date: 2014-01-01
 cover: /assets/img/books/the_elegant_universe.jpg
-
 ---
 
 Brian Greene's "The Elegant Universe" is a popular science book that explores the quest for a unified theory of physics, often referred to as the "theory of everything" (TOE). The book primarily focuses on superstring theory as a leading candidate for this unifying framework.

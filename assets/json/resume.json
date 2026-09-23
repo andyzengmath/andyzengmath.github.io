@@ -30,7 +30,7 @@
       "startDate": "2022-02",
       "endDate": "",
       "summary": "",
-      "highlights": ["Differential Geometry", "Algebraic Topology", "Reinforcement Learning", "Large Language Models"],
+      "highlights": ["Differential Geometry", "Algebraic Topology", "Reinforcement Learning", "Large Language Models"]
     }
   ],
   "volunteer": [
@@ -66,7 +66,14 @@
       "startDate": "2014-10",
       "endDate": "2015-08",
       "score": "Honours",
-      "courses": ["Differential Geometry", "Advanced Functional Analysis", "Analysis of PDEs", "Advanced Probability", "Distribution Theory and Applications", "Elliptic PDEs"]
+      "courses": [
+        "Differential Geometry",
+        "Advanced Functional Analysis",
+        "Analysis of PDEs",
+        "Advanced Probability",
+        "Distribution Theory and Applications",
+        "Elliptic PDEs"
+      ]
     }
   ],
   "awards": [
@@ -182,17 +189,13 @@
         "Index Theory",
         "Higher Category Theory",
         "Homotopy Theory",
-        "Differentiao Operators",
+        "Differentiao Operators"
       ]
     },
     {
       "name": "Mathematical Physics",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Self-dual Yang-Mills Theory",
-        "Topological Quantum Field Theory",
-        "Quantum Gravity"
-      ]
+      "keywords": ["Self-dual Yang-Mills Theory", "Topological Quantum Field Theory", "Quantum Gravity"]
     },
     {
       "name": "AI and Machine Learning",
@@ -202,7 +205,7 @@
         "Geometric Deep Learning",
         "Graph Representation Learning",
         "Large Language Models",
-        "Time Series Forecasting",
+        "Time Series Forecasting"
       ]
     }
   ],

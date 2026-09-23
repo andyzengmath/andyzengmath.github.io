@@ -23,6 +23,7 @@ category: AI and Machine Learning
 The **Quiver Math Research Agent** is an extension for Visual Studio Code that serves as an AI-powered math research assistant.
 
 ### Key Features
+
 - **@math Chat Participant** — Type `@math` in Copilot Chat for quick math queries with LaTeX rendering. Search arXiv, Wikipedia, nLab, and more.
 - **Research Studio (Branching Dialogue)** — A webview panel for deep, non-linear exploration. Features branching conversations, math personas (algebraist, logician, etc.), RAG auto-retrieval, and optionally verifying proof steps against Lean4.
 - **Write Tab (Paper Assistant)** — Draft paper sections from your research conversations and inject them directly into your `.tex` files.

@@ -29,13 +29,13 @@ Our key lessons learned:
 ## Team
 
 - **[Jeremy D. Wu](https://sites.google.com/view/dawu)** — Research Postdoc at CHOP  
-  *PhD Math Penn '23, MA Statistics Wharton '22, BSc Math McGill '18*
+  _PhD Math Penn '23, MA Statistics Wharton '22, BSc Math McGill '18_
 
 - **[Jingye Yang](https://www.linkedin.com/in/jingyey/)** — Data Science Postdoc Fellow at Penn & CHOP  
-  *PhD Math Penn '23, MA Statistics Wharton '22, MA Applied Math and Comp Science '18*
+  _PhD Math Penn '23, MA Statistics Wharton '22, MA Applied Math and Comp Science '18_
 
 - **[Andy Zeng](https://www.linkedin.com/in/qingyun-z-15211166/)** — Visiting Research Scholar at Penn  
-  *PhD Math Penn '21, MASt Math Cambridge '15*
+  _PhD Math Penn '21, MASt Math Cambridge '15_
 
 <div class="text-center mt-4">
   <a href="https://pci.upenn.edu/icorps_team/transcend-ai/" target="_blank">

@@ -11,7 +11,6 @@ tags: ["higher category theory", "infinity-categories", "infinity-topoi"]
 buy_link: https://www.amazon.com/Higher-Topos-Theory-Mathematics-Studies/dp/0691140499
 date: 2019-01-01
 cover: /assets/img/books/higher_topos_theory.jpg
-
 ---
 
 Higher Topos Theory is a foundational treatise in higher category theory that introduces the theory of infinity-categories and infinity-topoi. Published in 2009, the book is considered a seminal work that has significantly impacted the understanding of abstract mathematical structures and their applications across various fields of mathematics, including algebraic geometry, homotopy theory, and mathematical physics.

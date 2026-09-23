@@ -14,29 +14,33 @@ Singular foliations generalize the classical notion of foliations by allowing th
 ## Publications
 
 ### Geometric Higher Stacks on Singular Foliations
+
 **In Preparation**
 
-*Andy Zeng*
+_Andy Zeng_
 
 We study the geometric higher stacks presented by Lie $\infty$-groupoids associated to singular foliations on smooth manifolds in the sense of Stefan-Sussmann. We show that the geometric higher stacks are equivalent to the derived moduli stacks of Lie $\infty$-algebroids associated to singular foliations. We also study the derived moduli stacks of Lie $\infty$-algebroids associated to holomorphic singular foliations on complex manifolds.
 
 ---
 
 ### Singular Foliations and Their Characteristic Classes
+
 **In Preparation**
 
-*Jonathan Block, Andy Zeng*
+_Jonathan Block, Andy Zeng_
 
 ---
 
 ### Homotopy Foliations
+
 **In Preparation**
 
-*Andy Zeng*
+_Andy Zeng_
 
 ---
 
 ### On the Existence of Resolution of Singular Foliations
+
 **In Preparation**
 
-*Andy Zeng*
+_Andy Zeng_

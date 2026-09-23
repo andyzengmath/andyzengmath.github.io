@@ -12,7 +12,6 @@ buy_link: https://www.amazon.com/Three-Body-Problem-Cixin-Liu/dp/0765382032
 olid: OL17267881W
 date: 2023-01-01
 cover: /assets/img/books/the_three_body_problem.jpg
-
 ---
 
 "The Three-Body Problem" by Liu Cixin is the first novel in the "Remembrance of Earth's Past" trilogy, a science fiction series exploring humanity's contact with an alien civilization.

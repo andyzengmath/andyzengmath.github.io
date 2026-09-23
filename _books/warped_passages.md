@@ -10,7 +10,6 @@ tags: ["string theory", "extra dimensions", "brane cosmology", "high-energy phys
 buy_link: https://www.amazon.com/Warped-Passages-Unraveling-Mysteries-Dimensions/dp/0060531096
 date: 2015-01-01
 cover: /assets/img/books/warped_passages.jpg
-
 ---
 
 "Warped Passages" by Lisa Randall is a groundbreaking exploration of the potential existence of hidden dimensions of the universe. A leading theoretical physicist, Randall guides readers through the complex landscape of modern particle physics and cosmology, making advanced concepts accessible to a general audience.

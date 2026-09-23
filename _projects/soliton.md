@@ -20,6 +20,7 @@ category: AI and Machine Learning
 Soliton auto-detects your base branch, computes a risk score, dispatches the right agents, and shows you the results.
 
 ### Features
+
 - Analyzes PRs and generates feedback utilizing specialized agents (security, hallucination, consistency, etc.)
 - Supports local branch reviews (pre-push) and GitHub PR reviews
 - Output options include terminal output, JSON, and direct feedback into your coding agent

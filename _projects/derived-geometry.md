@@ -14,15 +14,17 @@ This research applies derived and higher-categorical methods to problems in comp
 ## Publications
 
 ### Derived Equivalences for $\bar\partial$-Coherent Sheaves over Elliptic Involutive Structures
+
 **In Preparation**
 
-*Andy Zeng*
+_Andy Zeng_
 
 ---
 
 ### Homotopy Complex Structures
+
 **In Preparation**
 
-*Andy Zeng*
+_Andy Zeng_
 
 A study of homotopy-theoretic generalizations of complex structures on manifolds.
