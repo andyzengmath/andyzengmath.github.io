@@ -13,21 +13,63 @@ Singular foliations generalize the classical notion of foliations by allowing th
 
 ## Publications
 
-### Geometric Higher Stacks on Singular Foliations
+### Higher Monodromy Stacks for Locally Resolvable Singular Foliations
 
 **In Preparation**
 
 _Andy Zeng_
 
-We study the geometric higher stacks presented by Lie $\infty$-groupoids associated to singular foliations on smooth manifolds in the sense of Stefan-Sussmann. We show that the geometric higher stacks are equivalent to the derived moduli stacks of Lie $\infty$-algebroids associated to singular foliations. We also study the derived moduli stacks of Lie $\infty$-algebroids associated to holomorphic singular foliations on complex manifolds.
+A higher monodromy stack built from finite local geometric resolutions, with Maurer-Cartan and van Kampen descent. This encodes higher leafwise transport rather than transverse holonomy.
 
 ---
 
-### Singular Foliations and Their Characteristic Classes
+### Toward Higher Transverse Holonomy of Singular Foliations: Smooth-Germ Constraints and a Geometric Framework
+
+**In Preparation**
+
+_Andy Zeng_
+
+Smooth-germ constraints and a geometric framework for higher transverse holonomy, distinguishing transverse holonomization from higher leafwise monodromy.
+
+---
+
+### Spectral Invariants of Isotropy in Singular Foliations
+
+**In Preparation**
+
+_Andy Zeng_
+
+Chevalley-Eilenberg spectral sequences of isotropy, late-page differentials, and leafwise spectral order. These provide separate algebraic invariants, not another monodromy or holonomy construction.
+
+---
+
+### Smooth Bott localization for resolved singular foliations: flat realizations and Morita obstructions
 
 **In Preparation**
 
 _Jonathan Block, Andy Zeng_
+
+Smooth Bott localization for resolved singular foliations, including flat realizations of relative $KO$-classes, residues, and Morita obstructions.
+
+---
+
+### Normal representations and graph-filtered Bott characters
+
+**In Preparation**
+
+_Jonathan Block, Andy Zeng_
+
+Finite cohesive normal representations and graph-filtered Bott characters, with descent and Morita-invariant refinements.
+
+---
+
+### Primitive curvature regulators and coherent Bott realization
+
+**In Preparation**
+
+_Jonathan Block, Andy Zeng_
+
+Primitive curvature regulators from graph characters and negative-cyclic chains, together with coherent Bott and analytic realization.
 
 ---
 
@@ -39,8 +81,50 @@ _Andy Zeng_
 
 ---
 
-### On the Existence of Resolution of Singular Foliations
+### Compatible Jets and Normal Symbols for Smooth Resolutions of Singular Foliations
 
 **In Preparation**
 
 _Andy Zeng_
+
+Compatible jets, normal symbols, and higher syzygies in the construction of smooth geometric resolutions of singular foliations.
+
+---
+
+### Geometric Resolutions and Normalizing Controls for Morse-Bott Foliations
+
+**In Preparation**
+
+_Andy Zeng_
+
+Morse-Bott-specific geometric resolutions using Euler-like fields and normalizing controls, as a companion to the general jet and normal-symbol study.
+
+---
+
+### Finite Factorization and Excision for Singular Foliation Algebras
+
+**In Preparation**
+
+_Andy Zeng_
+
+Finite bisubmersion factorization, $H$-unitality, and excision for algebraic convolution algebras of singular foliations.
+
+---
+
+### Coarse Stabilization and Negative Classes for Singular Foliations
+
+**In Preparation**
+
+_Andy Zeng_
+
+Coarse stabilization and negative algebraic $K$-classes associated with singular foliations.
+
+---
+
+### Negative Algebraic $K$-Theory of Smooth Kernel Algebras
+
+**In Preparation**
+
+_Andy Zeng_
+
+Negative algebraic $K$-theory of smooth kernel algebras, including circle and line models and comparisons with stabilized compact-operator algebras.

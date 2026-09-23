@@ -229,11 +229,9 @@ PhD Math Penn '23, MA Statistics Wharton '22, MA Applied Math and Comp Science '
 <strong>Research Interests:</strong> Domain-Adaptive Language Models, Scientific Literature Mining, Knowledge Graphs, Retrieval-Augmented Generation
 </small></p>
 <p class="card-text"><small class="text-muted">
-First author of WaterBERT and WaterRAG, developing domain-adapted language models and retrieval systems for water and wastewater treatment.
+Develops domain-adapted language models and retrieval systems for water and wastewater treatment.
 </small></p>
-<a href="https://arxiv.org/abs/2609.26034" class="card-link" target="_blank" rel="noopener noreferrer">WaterBERT</a>
-<a href="https://doi.org/10.1021/acs.est.5c15806" class="card-link" target="_blank" rel="noopener noreferrer">WaterRAG</a>
-<a href="https://github.com/Mudi12138/WaterBERT" class="card-link" target="_blank" rel="noopener noreferrer">Code</a>
+<a href="https://www.semanticscholar.org/author/2181002142" class="card-link" target="_blank" rel="noopener noreferrer">Semantic Scholar</a>
 </div>
 </div>
 </div>
