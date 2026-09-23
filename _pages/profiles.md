@@ -13,7 +13,7 @@ Here are some of the wonderful people I have had the pleasure to work and collab
 
 ---
 
-### Mathematics Collaborators
+### Mathematics Collaborators & Mentors
 
 <div class="row mt-3">
 
@@ -59,7 +59,7 @@ Pioneer of A∞-algebras and Stasheff polytopes (associahedra). His work on homo
 <div class="card h-100">
 <div class="card-body">
 <h5 class="card-title"><a href="https://sites.google.com/site/weizhaotingmath/" target="_blank">Zhaoting Wei</a></h5>
-<h6 class="card-subtitle mb-2 text-muted">Assistant Professor of Mathematics</h6>
+<h6 class="card-subtitle mb-2 text-muted">Associate Professor of Mathematics</h6>
 <p class="card-text">East Texas A&M University</p>
 <p class="card-text"><small>
 <strong>Research Interests:</strong> Noncommutative Geometry, Higher Category Theory, Representation Theory
@@ -157,9 +157,29 @@ BS Math Stats & CS from Wake Forest. Co-author on Text-to-SQL paper at ICML 2025
 <p class="card-text"><small class="text-muted">
 BEng Tianjin, PhD Queensland. Editor at Water Research X. Develops AI and deep learning approaches for wastewater treatment.
 </small></p>
+<a href="https://sites.google.com/view/haoranduan/" class="card-link" target="_blank" rel="noopener noreferrer">Website</a>
 <a href="https://www.civil.hku.hk/pp-duanhr.html" class="card-link" target="_blank">HKU Profile</a>
 <a href="https://scholar.google.com/citations?user=xjB-cesAAAAJ" class="card-link" target="_blank">Google Scholar</a>
 <a href="mailto:haoran.duan@hku.hk" class="card-link">Email</a>
+</div>
+</div>
+</div>
+
+<div class="col-md-6 mb-4">
+<div class="card h-100">
+<div class="card-body">
+<h5 class="card-title"><a href="https://profiles.cardiff.ac.uk/research-staff/tongy4" target="_blank">Yanzhang Tong</a></h5>
+<h6 class="card-subtitle mb-2 text-muted">Postdoc</h6>
+<p class="card-text">Peking University</p>
+<p class="card-text"><small>
+<strong>Research Interests:</strong> Human-Robot Interaction, User Experience, Augmented Reality, NLP/BERT, Manufacturing Systems
+</small></p>
+<p class="card-text"><small class="text-muted">
+PhD Cardiff '25 (Human-Robot Interaction), MSc Glasgow '17 (Design Innovation), BSc Chongqing '16 (Animation & VFX). RSA Fellow. Research on AR facial expression systems, HRC integration, and data-driven UX modeling.
+</small></p>
+<a href="https://profiles.cardiff.ac.uk/research-staff/tongy4" class="card-link" target="_blank">Cardiff Profile</a>
+<a href="https://scholar.google.com/citations?user=cfBLCAcAAAAJ&hl=en" class="card-link" target="_blank">Google Scholar</a>
+<a href="https://cn.linkedin.com/in/yanzhang-tong-120578181" class="card-link" target="_blank">LinkedIn</a>
 </div>
 </div>
 </div>
@@ -202,18 +222,18 @@ PhD Math Penn '23, MA Statistics Wharton '22, MA Applied Math and Comp Science '
 <div class="col-md-6 mb-4">
 <div class="card h-100">
 <div class="card-body">
-<h5 class="card-title"><a href="https://profiles.cardiff.ac.uk/research-staff/tongy4" target="_blank">Yanzhang Tong</a></h5>
-<h6 class="card-subtitle mb-2 text-muted">Postdoc</h6>
-<p class="card-text">Peking University</p>
+<h5 class="card-title">Mudi Zhai</h5>
+<h6 class="card-subtitle mb-2 text-muted">Water Treatment &amp; Environmental AI</h6>
+<p class="card-text">UNSW Water Research Centre, University of New South Wales</p>
 <p class="card-text"><small>
-<strong>Research Interests:</strong> Human-Robot Interaction, User Experience, Augmented Reality, NLP/BERT, Manufacturing Systems
+<strong>Research Interests:</strong> Domain-Adaptive Language Models, Scientific Literature Mining, Knowledge Graphs, Retrieval-Augmented Generation
 </small></p>
 <p class="card-text"><small class="text-muted">
-PhD Cardiff '25 (Human-Robot Interaction), MSc Glasgow '17 (Design Innovation), BSc Chongqing '16 (Animation & VFX). RSA Fellow. Research on AR facial expression systems, HRC integration, and data-driven UX modeling.
+First author of WaterBERT and WaterRAG, developing domain-adapted language models and retrieval systems for water and wastewater treatment.
 </small></p>
-<a href="https://profiles.cardiff.ac.uk/research-staff/tongy4" class="card-link" target="_blank">Cardiff Profile</a>
-<a href="https://scholar.google.com/citations?user=cfBLCAcAAAAJ&hl=en" class="card-link" target="_blank">Google Scholar</a>
-<a href="https://cn.linkedin.com/in/yanzhang-tong-120578181" class="card-link" target="_blank">LinkedIn</a>
+<a href="https://arxiv.org/abs/2609.26034" class="card-link" target="_blank" rel="noopener noreferrer">WaterBERT</a>
+<a href="https://doi.org/10.1021/acs.est.5c15806" class="card-link" target="_blank" rel="noopener noreferrer">WaterRAG</a>
+<a href="https://github.com/Mudi12138/WaterBERT" class="card-link" target="_blank" rel="noopener noreferrer">Code</a>
 </div>
 </div>
 </div>
@@ -222,4 +242,4 @@ PhD Cardiff '25 (Human-Robot Interaction), MSc Glasgow '17 (Design Innovation), 
 
 ---
 
-*If you're interested in collaboration, feel free to reach out!*
+_If you're interested in collaboration, feel free to reach out!_
