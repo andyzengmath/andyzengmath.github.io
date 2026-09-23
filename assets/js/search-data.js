@@ -79,7 +79,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/repositories/";
               },
-            },{id: "post-superconnections-on-transversely-holomorphic-foliations",
+            },{id: "post-waterbert-turning-water-treatment-literature-into-structured-evidence",
+        
+          title: "WaterBERT: turning water-treatment literature into structured evidence",
+        
+        description: "Our new preprint introduces a domain-adapted encoder for water-treatment literature mining and knowledge-enhanced retrieval.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/waterbert-water-treatment-literature/";
+          
+        },
+      },{id: "post-superconnections-on-transversely-holomorphic-foliations",
         
           title: "Superconnections on transversely holomorphic foliations",
         
@@ -383,6 +394,9 @@ ninja.data = [{
           section: "News",},{id: "news-launched-the-quiver-math-research-agent-vs-code-extension-your-ai-powered-research-assistant-brings-branching-dialogues-rag-knowledge-retrieval-across-arxiv-nlab-wikipedia-and-paper-writing-directly-into-your-ide-use-the-math-chat-participant-for-quick-queries-or-the-research-studio-panel-for-deep-multi-agent-exploration-with-specialized-math-personas-algebraist-logician-topologist-etc",
           title: '🚀 Launched the Quiver Math Research Agent VS Code extension! Your AI-powered research...',
           description: "",
+          section: "News",},{id: "news-our-new-waterbert-preprint-is-on-arxiv-domain-adapted-language-models-for-water-treatment-literature-mining-with-knowledge-enhanced-retrieval-through-waterkers-read-the-blog-post-or-visit-the-project-page",
+          title: 'Our new WaterBERT preprint is on arXiv: domain-adapted language models for water-treatment literature...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -488,6 +502,11 @@ ninja.data = [{
           description: "AI-driven platform for rare genetic disease identification in pediatric care",
           section: "Projects",handler: () => {
               window.location.href = "/projects/transcend-ai/";
+            },},{id: "projects-waterbert-amp-waterkers",
+          title: 'WaterBERT &amp;amp; WaterKERS',
+          description: "Domain-adapted language models, structured water-treatment evidence, and hybrid literature retrieval",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/waterbert/";
             },},{id: "projects-waterrag",
           title: 'WaterRAG',
           description: "Agentic RAG framework for wastewater treatment to support net-zero carbon emissions",
