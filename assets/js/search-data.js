@@ -449,7 +449,7 @@ ninja.data = [{
               window.location.href = "/projects/ai-codebase-analysis/";
             },},{id: "projects-derived-geometry-and-higher-categories",
           title: 'Derived Geometry and Higher Categories',
-          description: "Derived and homotopical methods in complex geometry",
+          description: "Derived and homotopical methods in complex and smooth geometry",
           section: "Projects",handler: () => {
               window.location.href = "/projects/derived-geometry/";
             },},{id: "projects-financial-ai",
@@ -469,7 +469,7 @@ ninja.data = [{
               window.location.href = "/projects/llm-nlp/";
             },},{id: "projects-mathematical-physics",
           title: 'Mathematical Physics',
-          description: "Geometric structures in gauge theory and field theory",
+          description: "Geometric structures in gauge theory and quantization",
           section: "Projects",handler: () => {
               window.location.href = "/projects/mathematical-physics/";
             },},{id: "projects-quantum-loop",
