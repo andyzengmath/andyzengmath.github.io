@@ -39,6 +39,24 @@ My PhD advisor. We work together on singular foliations, L∞-algebroids, and ch
 <div class="col-md-6 mb-4">
 <div class="card h-100">
 <div class="card-body">
+<h5 class="card-title"><a href="https://math.gmu.edu/~rsachs/" target="_blank" rel="noopener noreferrer">Robert (Bob) Sachs</a></h5>
+<h6 class="card-subtitle mb-2 text-muted">Professor of Mathematics (Retired)</h6>
+<p class="card-text">George Mason University</p>
+<p class="card-text"><small>
+<strong>Research Interests:</strong> Nonlinear PDEs, Hamiltonian Systems, Mathematics Education
+</small></p>
+<p class="card-text"><small class="text-muted">
+My honors thesis advisor.
+</small></p>
+<a href="https://math.gmu.edu/~rsachs/" class="card-link" target="_blank" rel="noopener noreferrer">Website</a>
+<a href="https://scholar.google.com/citations?user=uZo15ScAAAAAJ" class="card-link" target="_blank" rel="noopener noreferrer">Google Scholar</a>
+</div>
+</div>
+</div>
+
+<div class="col-md-6 mb-4">
+<div class="card h-100">
+<div class="card-body">
 <h5 class="card-title"><a href="https://www.math.upenn.edu/people/james-stasheff" target="_blank">Jim Stasheff</a></h5>
 <h6 class="card-subtitle mb-2 text-muted">Professor of Mathematics</h6>
 <p class="card-text">University of Pennsylvania (Emeritus, UNC Chapel Hill)</p>

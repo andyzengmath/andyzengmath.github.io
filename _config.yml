@@ -186,6 +186,7 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
+  - test/
   - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
@@ -315,6 +316,7 @@ filtered_bibtex_keywords:
     pdf,
     poster,
     preview,
+    research_area,
     selected,
     slides,
     supp,

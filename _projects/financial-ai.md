@@ -28,3 +28,4 @@ We apply sentiment analysis in financial contexts using FinBERT, and build a dee
 - Proposed methods to improve model accuracy
 
 <a href="https://arxiv.org/abs/2306.02136" target="_blank" class="btn btn-sm btn-outline-primary">arXiv</a>
+<a href="{% post_url 2023-06-03-finbert-financial-sentiment %}" class="btn btn-sm btn-outline-secondary">Blog post</a>

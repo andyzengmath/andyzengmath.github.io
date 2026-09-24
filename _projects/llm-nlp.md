@@ -37,6 +37,7 @@ A novel approach to enhance LLM performance without additional training by lever
 
 <a href="https://openreview.net/forum?id=THSbsRWy9v" target="_blank" class="btn btn-sm btn-outline-primary">OpenReview</a>
 <a href="https://github.com/abhishekpanigrahi1996/MOSS/tree/main/submissions/submission-2" target="_blank" class="btn btn-sm btn-outline-secondary">Code</a>
+<a href="{% post_url 2025-06-10-zerotuning-initial-token-attention %}" class="btn btn-sm btn-outline-secondary">Blog post</a>
 
 ---
 
@@ -49,3 +50,4 @@ _Andy Zeng, Simin Ma, Arash Niknafs, Ashish Basran, Carol Szabo_
 The rise of Large Language Models has significantly advanced Text-to-SQL systems, yet evaluating the semantic equivalence of generated SQL remains a challenge. This paper explores using LLMs to assess both semantic and "weak" semantic equivalence, analyzing common patterns of SQL equivalence and inequivalence.
 
 <a href="https://arxiv.org/abs/2506.09359" target="_blank" class="btn btn-sm btn-outline-primary">arXiv</a>
+<a href="{% post_url 2025-06-27-taming-sql-equivalence %}" class="btn btn-sm btn-outline-secondary">Blog post</a>

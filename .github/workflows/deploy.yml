@@ -9,6 +9,8 @@ on:
       - "assets/**"
       - "_sass/**"
       - "_scripts/**"
+      - "_plugins/**"
+      - "test/**"
       - "**.bib"
       - "**.html"
       - "**.js"
@@ -38,6 +40,8 @@ on:
       - "assets/**"
       - "_sass/**"
       - "_scripts/**"
+      - "_plugins/**"
+      - "test/**"
       - "**.bib"
       - "**.html"
       - "**.js"
@@ -93,6 +97,7 @@ jobs:
           sudo apt-get update && sudo apt-get install -y imagemagick
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
+          bundle exec ruby test/number_publications_test.rb
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |

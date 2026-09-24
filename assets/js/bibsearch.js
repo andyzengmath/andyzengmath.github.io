@@ -24,11 +24,11 @@ document.addEventListener("DOMContentLoaded", function () {
       });
     }
 
-    document.querySelectorAll("h2.bibliography").forEach(function (element) {
-      let iterator = element.nextElementSibling; // get next sibling element after h2, which can be h3 or ol
+    document.querySelectorAll("h2.bibliography, h3.bibliography").forEach(function (element) {
+      let iterator = element.nextElementSibling; // get the next group heading or bibliography list
       let hideFirstGroupingElement = true;
-      // iterate until next group element (h2), which is already selected by the querySelectorAll(-).forEach(-)
-      while (iterator && iterator.tagName !== "H2") {
+      // Stop at the next heading of the same or a higher level.
+      while (iterator && iterator.tagName !== "H2" && (element.tagName !== "H3" || iterator.tagName !== "H3")) {
         if (iterator.tagName === "OL") {
           const ol = iterator;
           const unloadedSiblings = ol.querySelectorAll(":scope > li.unloaded");
@@ -48,12 +48,22 @@ document.addEventListener("DOMContentLoaded", function () {
         element.classList.add("unloaded");
       }
     });
+
+    document.querySelectorAll(".research-subject").forEach((section) => {
+      section.classList.toggle("unloaded", !section.querySelector(".bibliography > li:not(.unloaded)"));
+    });
   };
 
   const updateInputField = () => {
     const hashValue = decodeURIComponent(window.location.hash.substring(1)); // Remove the '#' character
-    document.getElementById("bibsearch").value = hashValue;
-    filterItems(hashValue);
+    const anchor = document.getElementById(hashValue);
+    const isPublicationAnchor = anchor && anchor.closest(".publications");
+    const searchTerm = isPublicationAnchor ? "" : hashValue.toLowerCase();
+    document.getElementById("bibsearch").value = searchTerm;
+    filterItems(searchTerm);
+    if (isPublicationAnchor) {
+      anchor.scrollIntoView();
+    }
   };
 
   // Sensitive search. Only start searching if there's been no input for 300 ms
