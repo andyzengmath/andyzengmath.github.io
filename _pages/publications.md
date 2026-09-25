@@ -30,6 +30,11 @@ scholar:
   {% bibliography --query @*[research_area=noncommutative-physics] %}
 </section>
 
+<section class="research-subject" aria-labelledby="numerical-analysis">
+  <h2 id="numerical-analysis">Numerical Analysis &amp; Differential Equations</h2>
+  {% bibliography --query @*[research_area=numerical-analysis] %}
+</section>
+
 <section class="research-subject" aria-labelledby="language-models">
   <h2 id="language-models">Language Models &amp; Evaluation</h2>
   {% bibliography --query @*[research_area=language-models] %}

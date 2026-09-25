@@ -25,7 +25,7 @@ not only the files changed in a pull request, and expects LF line endings.
 ### Research entries
 
 Every entry in `_bibliography/papers.bib` needs one `research_area`: `foliations`, `higher-geometry`, `noncommutative-physics`,
-`language-models`, or `applied-ai`. These are the five sections in `_pages/publications.md`; entries without a matching area will not appear there.
+`numerical-analysis`, `language-models`, or `applied-ai`. These are the six sections in `_pages/publications.md`; entries without a matching area will not appear there.
 Use the comma-separated `keywords` field for secondary topic tags rather than duplicating an entry across subjects.
 
 Years are grouped newest first within each subject. The `number_publications` filter assigns native HTML list numbers across all subjects and years,
