@@ -15,7 +15,7 @@ Research exploring language models for natural language processing, with a focus
 
 ### Domain-Adaptive Pretraining Enhances Water Treatment Semantic Representation for Large-Scale Structured Literature Mining
 
-**arXiv 2026**
+**arXiv 2026; submitted to Environmental Science & Technology (ES&T)**
 
 _Mudi Zhai, Ruihong Qiu, Qingyun Zeng, T. David Waite, Bing-Jie Ni, Haoran Duan_
 

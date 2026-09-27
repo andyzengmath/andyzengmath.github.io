@@ -18,7 +18,7 @@ category: AI and Machine Learning
 
 ### Domain-Adaptive Pretraining Enhances Water Treatment Semantic Representation for Large-Scale Structured Literature Mining
 
-**arXiv preprint, September 2026**
+**arXiv preprint, September 2026; submitted to Environmental Science & Technology (ES&T)**
 
 _Mudi Zhai, Ruihong Qiu, Qingyun Zeng, T. David Waite, Bing-Jie Ni, Haoran Duan_
 
