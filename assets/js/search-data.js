@@ -112,6 +112,17 @@ ninja.data = [{
             window.location.href = "/blog/2026/higher-riemann-hilbert-regular-foliations/";
           
         },
+      },{id: "post-waterrag-grounding-wastewater-decisions-in-scientific-evidence",
+        
+          title: "WaterRAG: grounding wastewater decisions in scientific evidence",
+        
+        description: "Our ES&amp;T paper combines a wastewater knowledge base with retrieval and iterative agents to support technical questions and literature reviews.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/waterrag-wastewater-net-zero/";
+          
+        },
       },{id: "post-higher-pseudodifferential-calculus-and-index-theory",
         
           title: "Higher Pseudodifferential Calculus and Index Theory",
