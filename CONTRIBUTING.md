@@ -28,12 +28,16 @@ Every entry in `_bibliography/papers.bib` needs one `research_area`: `foliations
 `numerical-analysis`, `language-models`, or `applied-ai`. These are the six sections in `_pages/publications.md`; entries without a matching area will not appear there.
 Use the comma-separated `keywords` field for secondary topic tags rather than duplicating an entry across subjects.
 
+Use `arxiv` (an arXiv ID), `openreview` (a full forum URL), and `journal_url` (a full publisher article URL) for the corresponding Research-page buttons.
+The generic `url` field is citation metadata and does not create a button by itself.
+
 Years are grouped newest first within each subject. The `number_publications` filter assigns native HTML list numbers across all subjects and years,
 so do not enter paper numbers manually. Numbers remain unchanged when search hides other entries. Keep different editions of the same work in one entry
 with separate links, as with the dissertation and its arXiv version. Preserve retired citation keys in the comma-separated `ids` field so existing
 publication bookmarks still work.
 
 Run the catalog and numbering regression tests with `bundle exec ruby test/number_publications_test.rb`, then build the site with `bundle exec jekyll build`.
+Check resource-link rendering with `bundle exec ruby test/publication_links_test.rb`.
 
 ## Issues
 

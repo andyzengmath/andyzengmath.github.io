@@ -313,6 +313,8 @@ filtered_bibtex_keywords:
     google_scholar_id,
     html,
     inspirehep_id,
+    journal_url,
+    openreview,
     pdf,
     poster,
     preview,

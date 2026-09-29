@@ -98,6 +98,7 @@ jobs:
           pip3 install --upgrade nbconvert
           export JEKYLL_ENV=production
           bundle exec ruby test/number_publications_test.rb
+          bundle exec ruby test/publication_links_test.rb
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |

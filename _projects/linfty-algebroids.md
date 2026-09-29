@@ -71,8 +71,10 @@ Coefficient integration and a Riemann-Hilbert comparison for an affine singular-
 
 ### Derived Smooth and Banach Higher Groupoids: Representability and Descent
 
-**In Preparation**
+**arXiv 2026**
 
 _Andy Zeng_
 
 Representability and descent for derived smooth and Banach higher groupoids, with structured higher-topos models. This is a separate continuation of the groupoid foundations, not a replacement for the dissertation or its arXiv version.
+
+<a href="https://arxiv.org/abs/2609.28220" target="_blank" class="btn btn-sm btn-outline-primary">arXiv</a>
