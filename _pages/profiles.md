@@ -95,6 +95,23 @@ PhD Penn '13, Zorn Postdoc at Indiana University. We collaborate on holomorphic 
 <div class="col-md-6 mb-4">
 <div class="card h-100">
 <div class="card-body">
+<h5 class="card-title"><a href="https://www.maths.cam.ac.uk/person/ngw24" target="_blank" rel="noopener noreferrer">Neshan Wickramasekera</a></h5>
+<h6 class="card-subtitle mb-2 text-muted">Professor of Mathematics</h6>
+<p class="card-text">University of Cambridge; Churchill College</p>
+<p class="card-text"><small>
+<strong>Research Interests:</strong> Geometric Measure Theory, Partial Differential Equations, Differential Geometry
+</small></p>
+<p class="card-text"><small class="text-muted">
+My Director of Studies at Churchill College, Cambridge.
+</small></p>
+<a href="https://www.maths.cam.ac.uk/person/ngw24" class="card-link" target="_blank" rel="noopener noreferrer">Cambridge Profile</a>
+</div>
+</div>
+</div>
+
+<div class="col-md-6 mb-4">
+<div class="card h-100">
+<div class="card-body">
 <h5 class="card-title"><a href="https://yangbowenmath.github.io/yangbowenmath/index.html" target="_blank">Bowen Yang</a></h5>
 <h6 class="card-subtitle mb-2 text-muted">Postdoctoral Fellow in Mathematical Physics</h6>
 <p class="card-text">Harvard University (CMSA)</p>

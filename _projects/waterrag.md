@@ -19,7 +19,9 @@ General-purpose LLMs exhibit limitations in specialized domains, including insuf
 
 _Mudi Zhai, Qingyun Zeng, Ruihong Qiu, Jiaying Li, Qixiang Zhu, T. David Waite, Bing-Jie Ni, Haoran Duan_
 
-Published in **Environmental Science & Technology**, 2026, **60**(15), 11529-11541.
+Published online **April 7, 2026**, in **Environmental Science & Technology**, **60**(15), 11529-11541. The issue is dated April 21, 2026.
+
+<a href="{% post_url 2026-04-07-waterrag-wastewater-net-zero %}" class="btn btn-sm btn-outline-secondary">Blog post</a>
 
 ## Related work
 
