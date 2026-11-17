@@ -5,6 +5,21 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - andyzengmath/m365-copilot-proxy
+  - andyzengmath/codex-aoai
+  - andyzengmath/copilot-api
+  - andyzengmath/deep-think
+  - andyzengmath/claude-code-copilot
+  - andyzengmath/aoai-chat
+  - andyzengmath/proof-search
+  - andyzengmath/soliton
+  - andyzengmath/quantum-loop
+  - andyzengmath/oh-my-copilot
+  - andyzengmath/mini-Hadoop
+  - andyzengmath/Quiver-Math-Research-Agent
+  - andyzengmath/Quiver
+  - andyzengmath/homotopy-and-k-theory
+  - andyzengmath/copilot-plugin-cc
   - alshedivat/al-folio
   - jekyll/jekyll
   - twbs/bootstrap
